@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_15">
+        <Style id="stylesel_4">
+            <LineStyle id="substyle_4">
+                <color>5014F08C</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="feat_16">
+            <name>Projected landing site</name>
+            <Point id="geom_6">
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <coordinates>-112.4833,40.1557,11241.8985219</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>Adjusted trajectory</name>
+            <styleUrl>#stylesel_4</styleUrl>
+            <LineString id="geom_7">
+                <extrude>1</extrude>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <coordinates>-112.1833,40.4557,11259.9746305 -112.2833,40.3557,11253.949261 -112.3833,40.2557,11247.9238914 -112.4833,40.1557,11241.8985219</coordinates>
+            </LineString>
+            <description>The project landing path given the course heading of the ascent.</description>
+        </Placemark>
+        <NetworkLink id="feat_18">
+            <Link id="link_4">
+                <href> </href>
+                <refreshInterval>2</refreshInterval>
+                <viewRefreshMode>onInterval </viewRefreshMode>
+            </Link>
+            <name>correction</name>
+        </NetworkLink>
+    </Document>
+</kml>

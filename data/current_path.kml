@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Style id="stylesel_0">
+            <LineStyle id="substyle_0">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="feat_2">
+            <name>Current Path</name>
+            <styleUrl>#stylesel_0</styleUrl>
+            <LineString id="geom_0">
+                <extrude>1</extrude>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <coordinates>-111.8333,41.0157,12345.0 -112.0243,40.7557,1135.0</coordinates>
+            </LineString>
+            <description>Current path of the balloon, from real time updates.</description>
+        </Placemark>
+        <NetworkLink id="feat_3">
+            <Link id="link_0">
+                <href> </href>
+                <refreshInterval>2</refreshInterval>
+                <viewRefreshMode>onInterval </viewRefreshMode>
+            </Link>
+            <name>current_path</name>
+        </NetworkLink>
+    </Document>
+</kml>

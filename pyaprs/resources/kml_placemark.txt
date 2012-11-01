@@ -1,0 +1,27 @@
+    <Placemark>
+      <name>%(fromCall)s</name>
+      <styleUrl>aprssymbols/aprssymbols.kml#msn_%(style)s</styleUrl>
+      <description><![CDATA[
+          <img src="aprssymbols/%(style)s.png" alt="%(style)s" width="40" height="40"/>
+          <br> Station: <b>%(fromCall)s</b>
+          <br> Symbol: %(symbolTable)s,%(symbolCharacter)s, %(style)s
+          <br>Time: %(localTime)s
+          <br>Path: %(path)s
+          <br>Data: %(data)s
+          <p style="margin-left:.5in;text-indent:-.5in">Packet: %(aprsisString)s
+          <br>
+          ]]>
+      </description>
+      <MultiGeometry>
+        <Point>
+          <coordinates>
+            %(longitude).4f,%(latitude).4f,%(elevation)d
+          </coordinates>
+        </Point>
+        <LineString>
+          <Coordinates>
+            -123,45,0 -122,42,0
+          </Coordinates>
+        </LineString>
+       </MultiGeometry>
+    </Placemark>

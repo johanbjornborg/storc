@@ -1,0 +1,1294 @@
+2012-07-26 20:52:02,346 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N0NHB-2>APU25N,TCPIP*,qAC,T2SWEDEN:=/9f+h6GvRn  BPHG71606/Red Oak,Iowa I-Gate {UIV32N}
+2012-07-26 20:52:02,348 - INFO - aprspacket.parse(258) - Unable to parse: =/9f+h6GvRn  BPHG71606/Red Oak,Iowa I-Gate {UIV32N}
+2012-07-26 20:52:02,450 - DEBUG - inetproducer.__handleData(149) - Buffering: ZL1ZLD-S>APJID2,TCPIP*,qAC,ZL1ZLD-GS:;ZL1ZLD A *220535z3650.84SD17454.09E
+2012-07-26 20:52:02,450 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KRYSTL>BEACON,qAR,VE7OGO-1:T#941,143,000,136,177,128,11111111,1111,0
+2012-07-26 20:52:02,450 - INFO - aprspacket.parse(343) - Unrecognized data: T#941,143,000,136,177,128,11111111,1111,0
+2012-07-26 20:52:02,451 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: OM3ZCK-2>APOT21,WIDE1-1,WIDE2-1,qAo,SR9NWJ:!4919.09N/02041.96E#15.3V  24C OM3ZCK-2 Digi Stara Lubovna
+2012-07-26 20:52:02,453 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:02,453 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:02,552 - DEBUG - inetproducer.__handleData(149) - Buffering: ZL1ZLD-S>APJID2,TCPIP*,qAC,ZL1ZLD-GS:
+2012-07-26 20:52:02,552 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZL1ZLD-S>APJID2,TCPIP*,qAC,ZL1ZLD-GS:;ZL1ZLD A *220535z3650.84SD17454.09EaRNG0025 1.2 Voice 1293.625 -20 MHz
+2012-07-26 20:52:02,552 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:02,553 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:02,553 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: FM5BW>APU25N,TCPIP*,qAC,T2SWEDEN:@270251z1437.67N/06106.29W_000/000g001t078r000p000P000h52b10021/fm5bw_bob@yahoo.fr {UIV32N}
+2012-07-26 20:52:02,553 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:02,553 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:02,654 - DEBUG - inetproducer.__handleData(149) - Buffering: EA3FLN-2>APRSWX,EA3CWQ-14,WIDE2-2,qAS,EA3GKP-11:@......z4147.52N/00302.92E_000/004g005t032r...Meteo S'Agaro Platja Sant Pol WINDUINO V1.
+2012-07-26 20:52:02,655 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZL1ZLD-S>APJID2,TCPIP*,qAC,ZL1ZLD-GS:;ZL1ZLD AD*260719z3650.84SD17454.09EaRNG0025 1.2 Data 1294.625
+2012-07-26 20:52:02,655 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:02,655 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:02,756 - DEBUG - inetproducer.__handleData(149) - Buffering: W8VFD>APU25N,TCPIP*,qAC,T2PUEBLO:;KE3JP/R  *212200z4122.50N/08024.47Wm146.445/147.445 
+2012-07-26 20:52:02,756 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: EA3FLN-2>APRSWX,EA3CWQ-14,WIDE2-2,qAS,EA3GKP-11:@......z4147.52N/00302.92E_000/004g005t032r...Meteo S'Agaro Platja Sant Pol WINDUINO V1.0
+2012-07-26 20:52:02,757 - INFO - aprspacket.parse(296) - Unable to parse: @......z4147.52N/00302.92E_000/004g005t032r...Meteo S'Agaro Platja Sant Pol WINDUINO V1.0
+2012-07-26 20:52:02,759 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZL1ZLD-S>APJID2,TCPIP*,qAC,ZL1ZLD-GS:;ZL1ZLD B *242136z3650.84SD17454.09EaRNG0030 440 Voice 439.575 -5.00 MHz
+2012-07-26 20:52:02,759 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:02,759 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:02,859 - DEBUG - inetproducer.__handleData(149) - Buffering: VK5AH-9>ST54X7,WIDE1-
+2012-07-26 20:52:02,861 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W8VFD>APU25N,TCPIP*,qAC,T2PUEBLO:;KE3JP/R  *212200z4122.50N/08024.47Wm146.445/147.445 & 443.425/R PL 186.2
+2012-07-26 20:52:02,862 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:02,862 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:02,862 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KE4AHR-12>APT311,K4TQR-1,WIDE1*,WIDE2-1,qAR,WB4FAY-5:>PHG5000r/ke4ahr@gmail
+2012-07-26 20:52:02,864 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:02,864 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: EA3TP>TQUUY3,ED3YAF-15,EA3IK-15*,WIDE3-2,qAR,EA3IK-1:'x+'l K\>ea3tp@yahoo.com
+2012-07-26 20:52:02,865 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:02,865 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:02,964 - DEBUG - inetproducer.__handleData(149) - Buffering: VE2RMF-S>APJID2,TCPIP*,qAC,VE2RMF-GS:;VE2RM
+2012-07-26 20:52:02,966 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VK5AH-9>ST54X7,WIDE1-1,WIDE2-2,qAR,VK5EX-5:'BB^nHsR/]"4\}
+2012-07-26 20:52:02,967 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:02,967 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:02,967 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: OH3RUX>APZMDR,WIDE1*,qAR,OH2RCH:!6213.36N/02404.22E#
+2012-07-26 20:52:02,967 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:02,969 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:02,969 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: IW8RDW-9>SX1Q90,IW9FDD-11,WIDE1*,WIDE2-1,qAR,IW8RBI-1:'+FWl!nj/
+2012-07-26 20:52:02,970 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:02,970 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,069 - DEBUG - inetproducer.__handleData(149) - Buffering: 530405-1>APTHWX,TCPIP*,qAS,APT
+2012-07-26 20:52:03,069 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE2RMF-S>APJID2,TCPIP*,qAC,VE2RMF-GS:;VE2RMF A *302009z4649.82ND07113.58WaRNG0020 1.2 Voice 1283.0000 -20 Mhz
+2012-07-26 20:52:03,071 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:03,071 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,072 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE2RMF-S>APJID2,TCPIP*,qAC,VE2RMF-GS:;VE2RMF AD*302009z4649.82ND07113.58WaRNG0020 1.2 Data 1243.0000
+2012-07-26 20:52:03,072 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:03,072 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,171 - DEBUG - inetproducer.__handleData(149) - Buffering: HEBOWX>APN390,WIDE2-1,qAR,W7GC-4:@024903z45
+2012-07-26 20:52:03,173 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530405-1>APTHWX,TCPIP*,qAS,APTHWX-1:!1734.86N\10040.80Ep
+2012-07-26 20:52:03,173 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:03,173 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,173 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W7ZQD>APRS,WIDE2-2,qAo,AC7KW:!4347.64n/12301.10w-
+2012-07-26 20:52:03,174 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:03,174 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,174 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 9W2XRX-9>P3QPP7,9W2LL-5*,WIDE2-1,qAR,9W2RUT-2:`mG[l!x>/@Mobile Tracker / V40
+2012-07-26 20:52:03,174 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:03,174 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,275 - DEBUG - inetproducer.__handleData(149) - Buffering: W8SHI-S>APJID2,TCPIP*,qAC,W8SHI-GS:;W8S
+2012-07-26 20:52:03,275 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HEBOWX>APN390,WIDE2-1,qAR,W7GC-4:@024903z4512.89NS12345.29W_000/000g000t061r000p000P000h55b10141.WxDg
+2012-07-26 20:52:03,276 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:03,276 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,276 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W8SHI-S>APJID2,TCPIP*,qAC,W8SHI-GS:;W8SHI  B *262018z4258.82ND08410.26WaRNG0020 444.300Mhz,+5Mhz,DV
+2012-07-26 20:52:03,276 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:03,278 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,378 - DEBUG - inetproducer.__handleData(149) - Buffering: RODMAN>APRS,OAKHLS,N6VIG,qAR,N6VIG:!3438.66NS11637.62W#PH
+2012-07-26 20:52:03,378 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W8SHI-S>APJID2,TCPIP*,qAC,W8SHI-GS:;W8SHI  C *262308z4258.82ND08410.26WaRNG0030 145.240Mhz,-.600,DV
+2012-07-26 20:52:03,378 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:03,378 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,378 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: PY6PJN-1>APU25N,TCPIP*,qAC,T2BRAZIL:>170256zREDE APRS BRASIL PY6PJN 145.570 MHz
+2012-07-26 20:52:03,380 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,480 - DEBUG - inetproducer.__handleData(149) - Buffering: BH4QGR-12>APLM2C,TCPIP*,qAS,BH4QGR-12:=3147.40N/11957.21E>180/000
+2012-07-26 20:52:03,480 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: RODMAN>APRS,OAKHLS,N6VIG,qAR,N6VIG:!3438.66NS11637.62W#PHG6910/W2,SCAn,RODMAN MTN.,CA.,W6MAF-10
+2012-07-26 20:52:03,480 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:03,480 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,480 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JA4FHV-10>APU25N,TCPIP*,qAC,T2FUKUOKA:>240421zUI-View32 V2.03 Shimonoseki-city I-GATE 9K6&1K2
+2012-07-26 20:52:03,482 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,582 - DEBUG - inetproducer.__handleData(149) - Buffering: KD5QZD-7>APRS,qAR,KB5OZE-1:=2956.80
+2012-07-26 20:52:03,582 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: BH4QGR-12>APLM2C,TCPIP*,qAS,BH4QGR-12:=3147.40N/11957.21E>180/000 08X_29S_4.13V
+2012-07-26 20:52:03,582 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:03,582 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,584 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K8WNJ-1>APN382,qAR,W8DF-5:!4314.08NS08614.66W#PHG7430/W2,MIn, Muskegon Digi
+2012-07-26 20:52:03,584 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:03,584 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,585 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: DB0KUN>APNU19,WIDE1-1,qAR,DL3SL-6:!4918.25NL00939.92E#OV Hohenlohe P33
+2012-07-26 20:52:03,585 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:03,585 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,684 - DEBUG - inetproducer.__handleData(149) - Buffering: M0ADS-1>APRS,MB7UN,WIDE2*,qAS,M0ADS:=5325.71N\00136.59W? PHG21304/Probe Enabled
+2012-07-26 20:52:03,684 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KD5QZD-7>APRS,qAR,KB5OZE-1:=2956.80NN09011.36w#PHG6590 Digi in Harahan, LA.(New Orleans)
+2012-07-26 20:52:03,686 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:03,686 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,687 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KA3C0Z-1>R7QW3P,W4OT-3,WIDE1*,WIDE2-2,qAR,WA4ASJ:`l5:!|)k/]"4$}
+2012-07-26 20:52:03,687 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:03,687 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,789 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: M0ADS-1>APRS,MB7UN,WIDE2*,qAS,M0ADS:=5325.71N\00136.59W? PHG21304/Probe Enabled
+2012-07-26 20:52:03,789 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:03,789 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,789 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: NV6G>APOA00,TCPIP*,qAC,N6NAR:;270223q44*010000z1608.11N\09802.98WQ000/000EQ:4.4 @ 26.60km offshore Oaxaca, Mexico -oaprs.net
+2012-07-26 20:52:03,789 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:03,789 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,789 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KB3SVY-2>WX,WIDE1-1*,WIDE2-1,qAR,AA3E-2:>W. Vincent Twp. E O C  Weather
+2012-07-26 20:52:03,790 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,891 - DEBUG - inetproducer.__handleData(149) - Buffering: JA2KWX-1>SUPWQ2,WIDE1-1,qAR,JK2
+2012-07-26 20:52:03,891 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VBALDI>APRX22,WIDE2-1,qAR,N7FSP-10:>Baldi Mtn Digi/IGate 144.350/9600 N7FSP
+2012-07-26 20:52:03,891 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,892 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZS6RO-2>APRS,TCPIP*,qAC,CORE-2:@270251z2616.60S/02758.70E_293/000g001t042P000h50b10254xPIC
+2012-07-26 20:52:03,892 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:03,892 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,993 - DEBUG - inetproducer.__handleData(149) - Buffering: VE7CRX-9>APOT21,BAKER*,WIDE1*,CNP*,WIDE2-1,qAR,VE6FRC:!4929.31N/11544.8
+2012-07-26 20:52:03,994 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JA2KWX-1>SUPWQ2,WIDE1-1,qAR,JK2KNR-10:'@G[l #/]TM-D710 Yatomi 144.66MHz 1200bps Digi=
+2012-07-26 20:52:03,994 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:03,994 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:03,996 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: OE6WSF-10>AP4R10,TCPIP*,qAC,T2EISBERG:!4645.05NI01537.67E&APRS4R IGATE
+2012-07-26 20:52:03,996 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:03,996 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,096 - DEBUG - inetproducer.__handleData(149) - Buffering: HS2EKI-1>APRX20,TCPIP*,qAC,SIXT
+2012-07-26 20:52:04,098 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE7CRX-9>APOT21,BAKER*,WIDE1*,CNP*,WIDE2-1,qAR,VE6FRC:!4929.31N/11544.89Wk131/019 32C
+2012-07-26 20:52:04,098 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:04,098 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,098 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E22ICZ-11>APGJW6-1,WIDE1-1,WIDE2-1,qAR,HS2AAJ:!1316.51N/10059.42Ev003/065/A=000132
+2012-07-26 20:52:04,098 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:04,099 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,099 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KJ4EZX-7>SY0PVQ,RCHFLD,WIDE1*,WIDE2-1,qAR,WA7FFM-1:`*.Bl 3k/`"UM}_
+2012-07-26 20:52:04,101 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:04,101 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,200 - DEBUG - inetproducer.__handleData(149) - Buffering: WB0VTM-7>APU25N,WIDE2-2,q
+2012-07-26 20:52:04,201 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS2EKI-1>APRX20,TCPIP*,qAC,SIXTH:!1335.31NI10100.87E&SAENPHUDAS BANPHO VHF GATEWAY [21RC4]
+2012-07-26 20:52:04,201 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:04,201 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,203 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: NN5DX-13>APU25N,TCPIP*,qAS,NN5DX-9:@270251z3052.98N/10254.14W_139/005g007t089r000P000p000h28b9088/FST WX {UIV32}
+2012-07-26 20:52:04,203 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:04,203 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,302 - DEBUG - inetproducer.__handleData(149) - Buffering: BD5HNQ-9>APG140,TCPIP*,qAC,T2TOKYO:
+2012-07-26 20:52:04,303 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WB0VTM-7>APU25N,WIDE2-2,qAR,WB0VTM:>262319z-Johnston City, IL Digi contact_wb0vtm@earthlink.net
+2012-07-26 20:52:04,303 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,303 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JK6QLS-9>S3SYV9,WIDE1-1,qAS,JF6PEK-10:`:8}lf"u/]"4G}145.000MHzAPRS SPECIALant APRS-L FUKUO=
+2012-07-26 20:52:04,305 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:04,305 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,404 - DEBUG - inetproducer.__handleData(149) - Buffering: GB7OK-C>APJI23,TCPIP*,qAC,GB7
+2012-07-26 20:52:04,404 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: BD5HNQ-9>APG140,TCPIP*,qAC,T2TOKYO:!3022.13N/12014.26E>063/030china.aprs2.net:14580 APRSBox B91 T
+2012-07-26 20:52:04,404 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:04,405 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,405 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W5FGC>APW280,K5QBM-2*,WIDE,qAR,N5DTX-5:=3250.51N/09638.10WZPHG1200/WinAPRS 2.8.0 -TXDALMESQUITE-280-<530>
+2012-07-26 20:52:04,405 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:04,407 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,506 - DEBUG - inetproducer.__handleData(149) - Buffering: TB2NJL-5>APU25N,TCPIP*,qAC,T2TURKIYE:>
+2012-07-26 20:52:04,506 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: GB7OK-C>APJI23,TCPIP*,qAC,GB7OK-CS:!5121.48ND00008.92E&RNG0070 2m Voice 145.7125 -0.60 MHz
+2012-07-26 20:52:04,507 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:04,507 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,507 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K4ABB-1>APSAAR,TCPIP*,qAC,T2SPAIN:=2602.91N/08010.69WoFIRE STATION74-40W-147.030 pl 103.5 {UIV32}
+2012-07-26 20:52:04,509 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:04,509 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,608 - DEBUG - inetproducer.__handleData(149) - Buffering: W7SAZ-8>APU25N,TCPIP*,qAC,T2FRANCE:;K7CQX   
+2012-07-26 20:52:04,609 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: TB2NJL-5>APU25N,TCPIP*,qAC,T2TURKIYE:>101850zAnkara VHF:145.600-145.650 T88.5-145.675, UHF:439.400
+2012-07-26 20:52:04,609 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,609 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KJ4AJP-5>APU25N,TCPIP*,qAC,T2TUS:=3620.38NI08851.60W#PHG6560/W2, TNn/Univ TN Martin {UIV32N}
+2012-07-26 20:52:04,611 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:04,611 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,710 - DEBUG - inetproducer.__handleData(149) - Buffering: JH4JQC-9>STUWR8,JA4YYF-3,WIDE1*,WIDE2-1,qAR,JH4AAC
+2012-07-26 20:52:04,711 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W7SAZ-8>APU25N,TCPIP*,qAC,T2FRANCE:;K7CQX    *042013z3339.28N/11206.00W-Woody listening 146.52
+2012-07-26 20:52:04,711 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:04,711 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,713 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: BD1RWA-10>APOTC1,TCPIP*,qAS,BH1IGB-5:/270251z/:><Lkp{a>@!G 13.3V HDOP00.8 SATS10438.600/144.850
+2012-07-26 20:52:04,713 - INFO - aprspacket.parse(296) - Unable to parse: /270251z/:><Lkp{a>@!G 13.3V HDOP00.8 SATS10438.600/144.850
+2012-07-26 20:52:04,812 - DEBUG - inetproducer.__handleData(149) - Buffering: WD8EJC-10>APNU3B,WIDE2-2,qAR,K8TIH:!4046.20NU08409.60W#PHG5360 W3 OHn-n wd8ejc@emb
+2012-07-26 20:52:04,813 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JH4JQC-9>STUWR8,JA4YYF-3,WIDE1*,WIDE2-1,qAR,JH4AAC-10:`=>1m!Ek/`"6d}_"
+2012-07-26 20:52:04,815 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:04,815 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,815 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: XE1BRX-1>APU25N,TCPIP*,qAC,T2VAN:;Bomberos3*291653z2039.89N/10118.76WfEstacion sur de Bomberos
+2012-07-26 20:52:04,815 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:04,815 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,915 - DEBUG - inetproducer.__handleData(149) - Buffering: WA3AFS-15>APT311,KA2QYE-10*,WIDE2*,qAo,KB2KRJ-10:!4237.12N/07357.96W>161/000/wa3afs@nycap.rr.com  
+2012-07-26 20:52:04,915 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WD8EJC-10>APNU3B,WIDE2-2,qAR,K8TIH:!4046.20NU08409.60W#PHG5360 W3 OHn-n wd8ejc@embarqmail.com
+2012-07-26 20:52:04,917 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:04,917 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:04,917 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: OZ0PY-8>APTT4,OZ4DIJ-2*,WIDE2-2,WIDE3-3,qAR,OZ1ARQ-1:T#601,127,082,999,313,233,10111011
+2012-07-26 20:52:04,917 - INFO - aprspacket.parse(343) - Unrecognized data: T#601,127,082,999,313,233,10111011
+2012-07-26 20:52:05,017 - DEBUG - inetproducer.__handleData(149) - Buffering: KC4ZP
+2012-07-26 20:52:05,019 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WA3AFS-15>APT311,KA2QYE-10*,WIDE2*,qAo,KB2KRJ-10:!4237.12N/07357.96W>161/000/wa3afs@nycap.rr.com  73 de Bruce
+2012-07-26 20:52:05,019 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:05,019 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,019 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 62094>APRS,qAS,WXSVR-EI:@270200z5124.90N/00625.25W_345/017g...t059r...p...P...b10183h79BUOY M5, , wave ...m [http://www.met.ie]
+2012-07-26 20:52:05,019 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:05,019 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,020 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: LU1VDA>T1P46V,LU1VM-10*,WIDE2-1,qAR,LU1VM:`c7tl >/
+2012-07-26 20:52:05,020 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:05,020 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,121 - DEBUG - inetproducer.__handleData(149) - Buffering: HS4RKT-9>APGJW6-1,qAS,HS4RKT:!1718.01N\10237.76EP000/000/
+2012-07-26 20:52:05,122 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KC4ZPL-1>APWW10,TCPIP*,qAC,T2POLC:>APRSIS32
+2012-07-26 20:52:05,122 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,122 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KD4TWJ>APX201,WC4PEM-14,WIDE2*,qAR,KG4YZY-11:=2833.40N/08114.24W_248/002g003t084r000P000p000h74b10152
+2012-07-26 20:52:05,124 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:05,124 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,223 - DEBUG - inetproducer.__handleData(149) - Buffering: JA5HWI-9>STQ
+2012-07-26 20:52:05,223 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS4RKT-9>APGJW6-1,qAS,HS4RKT:!1718.01N\10237.76EP000/000/A=000782
+2012-07-26 20:52:05,223 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:05,224 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,224 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K0ANI>APN391,WIDE2-2,qAR,N0IX-12:!3938.04NS10502.85W#PHG5471/W3,COn  The Denver Igate.....
+2012-07-26 20:52:05,224 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:05,224 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,226 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WB9KHR-9>S75W1Y,KA0GFC-4*,WIDE2-1,qAR,KA2FNK:'wJ|l ->/]"7m}Burning gasoline   146.52
+2012-07-26 20:52:05,226 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:05,226 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,326 - DEBUG - inetproducer.__handleData(149) - Buffering: OH1LXF-2>APRX22,TCPIP*,qAC,T2FINLAND:!6046.21NI02413.8
+2012-07-26 20:52:05,328 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JA5HWI-9>STQWP1,WIDE1-1,qAS,JR5GDP:`>Z+lIS>/`"4E}433.000MHz tamai_"
+2012-07-26 20:52:05,328 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:05,328 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,328 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: G4DYR>APRS,TCPIP*,qAC,FIFTH:@270251z4000.00N/08100.00W_243/006g008t069r036P036h97b10059
+2012-07-26 20:52:05,328 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:05,328 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,428 - DEBUG - inetproducer.__handleData(149) - Buffering: JF2OHQ-9>S4
+2012-07-26 20:52:05,428 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: OH1LXF-2>APRX22,TCPIP*,qAC,T2FINLAND:!6046.21NI02413.84E&Rx-iGate Loppi/Topeno
+2012-07-26 20:52:05,428 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:05,430 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,430 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W0JRT-3>APN391,qAR,BASHOR:;442.675+M*111111z3944.83N/09421.55WrT127 R25m
+2012-07-26 20:52:05,430 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:05,430 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,430 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: XE3EOL>APU25N,TCPIP*,qAC,T2MEXICO:=2116.87N/08939.43W-IGATE PROGRESO 144.39MHz {UIV32N}
+2012-07-26 20:52:05,430 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:05,430 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,532 - DEBUG - inetproducer.__handleData(149) - Buffering: K0TGA-2>APU25N,TCPIP*,qAC,T2CMH:=4402.93N/09636.
+2012-07-26 20:52:05,532 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JF2OHQ-9>S4USQ6,WIDE1-1,qAR,JO2OKP-10:`A]jo6f>/>"4(}=
+2012-07-26 20:52:05,532 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:05,532 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,532 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K1RTA-1>APU25N,W2DAN-14*,WIDE2-2,qAo,K1KWP:=4154.24N/06959.63W-Russ in Wellfleet Running UIview32 {UIV32N}
+2012-07-26 20:52:05,533 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:05,533 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,634 - DEBUG - inetproducer.__handleData(149) - Buffering: KJ4EZX-7>SY0PVQ,RCHFLD*,WIDE1*,HOLDEN*,WIDE2*,qA
+2012-07-26 20:52:05,634 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K0TGA-2>APU25N,TCPIP*,qAC,T2CMH:=4402.93N/09636.48W#Flandreau, SD
+2012-07-26 20:52:05,634 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:05,634 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,635 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: kl7m>APVR30,TCPIP*,qAC,T2TURKIYE:;145.21MHz*270251z6031.20N/15104.80WyJoin us for the Alaska Morning Net weekdays 9am on 145.21 MHz
+2012-07-26 20:52:05,635 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:05,635 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,736 - DEBUG - inetproducer.__handleData(149) - Buffering: W8VFD>APU25N,TCP
+2012-07-26 20:52:05,736 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KJ4EZX-7>SY0PVQ,RCHFLD*,WIDE1*,HOLDEN*,WIDE2*,qAo,KB6RKS:`*.Bl 3k/`"UM}_
+2012-07-26 20:52:05,736 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:05,736 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,737 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JA5QLZ-9>SSSSX5,WIDE1-1,WIDE2-1,qAr,JA5AIL-10:`=>Ll#T>/`"4"}_#
+2012-07-26 20:52:05,737 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:05,737 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,739 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KC0MWM-2>APOTW1,AJ0A,WIDE2*,qAR,KC0MWM:!4056.00N/09822.09W_090/001g003t082P000h48b10114OTW1
+2012-07-26 20:52:05,739 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:05,739 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,838 - DEBUG - inetproducer.__handleData(149) - Buffering: PE1PYT-5>APU25N,WIDE,1-1,TRACE,2-1
+2012-07-26 20:52:05,839 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W8VFD>APU25N,TCPIP*,qAC,T2PUEBLO:;442.600/R*212200z4152.49N/08047.37WmW8VFD/R 442.600/R ASHTABULA OH P.L.103.5
+2012-07-26 20:52:05,839 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:05,839 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,841 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: APRSIS>RXTLM-1,TCPIP,qAR,HS1ZKR-1:T#417,0.0,0.0,0.0,0.0,0.0,00000000
+2012-07-26 20:52:05,842 - INFO - aprspacket.parse(343) - Unrecognized data: T#417,0.0,0.0,0.0,0.0,0.0,00000000
+2012-07-26 20:52:05,941 - DEBUG - inetproducer.__handleData(149) - Buffering: JG1PAA-9>STSVX7,WIDE1-1,qAR,JF3MTW-10:
+2012-07-26 20:52:05,941 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: PE1PYT-5>APU25N,WIDE,1-1,TRACE,2-1,qAR,PD0HNI-10:;Lighthse *231841z5158.47N\00408.00ELLighthouse at "Hoek van Holland"
+2012-07-26 20:52:05,943 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:05,943 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:05,944 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VA3VA>APU25N,WIDE2-2,qAS,VE3CTP:=4220.41N/08256.30W-Ed in Windsor {UIV32N}
+2012-07-26 20:52:05,944 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:05,944 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,043 - DEBUG - inetproducer.__handleData(149) - Buffering: KM5TN-1>S2RR2Q,WIDE1-1,W
+2012-07-26 20:52:06,043 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JG1PAA-9>STSVX7,WIDE1-1,qAR,JF3MTW-10:`?O9p!0>/`"5I}_"
+2012-07-26 20:52:06,045 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:06,045 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,045 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N4BSA-9>R7UW0P,W4ACS-11,WIDE1,KG4YZY-10,NI4CE-12,WIDE2*,qAR,KG4YZY-11:'nIg !mk/]"4)}
+2012-07-26 20:52:06,046 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:06,046 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,046 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: SM7WUN>APU25N,TCPIP*,qAC,T2SWEDEN:=5745.49N/01410.88E-PHG5250 {UIV32N}
+2012-07-26 20:52:06,046 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,046 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,147 - DEBUG - inetproducer.__handleData(149) - Buffering: WD4ROJ-2>APNU3B,qAR,KE4GWW-1:!3113.72NS08523.60W#phg7460/W3,ALn-n  Dotha
+2012-07-26 20:52:06,147 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KM5TN-1>S2RR2Q,WIDE1-1,WIDE2-1,qAR,WB5RXA:`|>zl -/]"5X}146.535MHz   ELLIS CO TX=
+2012-07-26 20:52:06,148 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:06,148 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,148 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K5PRK-11>APRX23,TCPIP*,qAC,T2CMH:T#420,0.2,0.2,1.0,0.0,1.0,00000000
+2012-07-26 20:52:06,148 - INFO - aprspacket.parse(343) - Unrecognized data: T#420,0.2,0.2,1.0,0.0,1.0,00000000
+2012-07-26 20:52:06,249 - DEBUG - inetproducer.__handleData(149) - Buffering: E20KXE-9>APOTC1,WIDE1-1,qAR,NV3A:!1848.06NP09857.02E>/A=001108 12.7V 28C aprs.fi - Your F
+2012-07-26 20:52:06,250 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WD4ROJ-2>APNU3B,qAR,KE4GWW-1:!3113.72NS08523.60W#phg7460/W3,ALn-n  Dothan    Alabama
+2012-07-26 20:52:06,250 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,250 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,250 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: XE1YMY>APU25N,WIDE2-1,qAR,XE1CDX-10:=1917.29N/09939.17W_TOLUCA, EDO. DE MEXICO     REPE 146.730
+2012-07-26 20:52:06,250 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,250 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,351 - DEBUG - inetproducer.__handleData(149) - Buffering: DU9ECZ>APU25N,TCPIP*,qAC,T2AUST:=0828.19N/12437.67E-Emmanuel Qth:Cagayan-Deoro Mindana
+2012-07-26 20:52:06,351 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E20KXE-9>APOTC1,WIDE1-1,qAR,NV3A:!1848.06NP09857.02E>/A=001108 12.7V 28C aprs.fi - Your Friends On a Map!
+2012-07-26 20:52:06,351 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,351 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,352 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WA4YYM>APU25N,W4HP-1,KE4OTZ-3,WIDE2*,qAR,AJ4HV-5:;147.18   *311511z3511.51N/08432.43Wrpl 118.8
+2012-07-26 20:52:06,352 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:06,352 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,453 - DEBUG - inetproducer.__handleData(149) - Buffering: K2UPS-10>APDR12,TCPIP*,qAC,T2ZURICH:=4051.64N/07400.68Wu003/047/A=000042 UPS
+2012-07-26 20:52:06,453 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: DU9ECZ>APU25N,TCPIP*,qAC,T2AUST:=0828.19N/12437.67E-Emmanuel Qth:Cagayan-Deoro Mindanao {UIV32}
+2012-07-26 20:52:06,454 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,454 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,454 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZS0PMB-S>APRS,TCPIP*,qAC,ZS0PMB-GS:;ZS0PMB C *270251z2934.24SD03017.34EaRNG0050 2m Voice 145.6875MHz -0.6000MHz
+2012-07-26 20:52:06,456 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:06,456 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,555 - DEBUG - inetproducer.__handleData(149) - Buffering: VE6KM-B>APJI23,TCPIP*,qAC,VE6KM-BS:!5331.59ND11320.77W&RNG0035 440 Voice 444.900
+2012-07-26 20:52:06,556 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K2UPS-10>APDR12,TCPIP*,qAC,T2ZURICH:=4051.64N/07400.68Wu003/047/A=000042 UPS Tractor Trailer. email RichK2UPS@gmail.com
+2012-07-26 20:52:06,556 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,556 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,558 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS1ZKR-1>RXTLM-2,TCPIP*,qAC,T2FINLAND:T#417,5.1,0.3,30.0,0.0,1.0,00000000
+2012-07-26 20:52:06,558 - INFO - aprspacket.parse(343) - Unrecognized data: T#417,5.1,0.3,30.0,0.0,1.0,00000000
+2012-07-26 20:52:06,657 - DEBUG - inetproducer.__handleData(149) - Buffering: KD7YEE-7>APN391,
+2012-07-26 20:52:06,657 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE6KM-B>APJI23,TCPIP*,qAC,VE6KM-BS:!5331.59ND11320.77W&RNG0035 440 Voice 444.900 +5.00 MHz
+2012-07-26 20:52:06,658 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,658 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,658 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE6KM-A>APJI23,TCPIP*,qAC,VE6KM-AS:!5331.59ND11320.77W&RNG0020 1.2 Voice 1287.5 -12.00 MHz
+2012-07-26 20:52:06,660 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,660 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,661 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E27EHM-10>APOT21,WIDE1-1,qAR,E21RBE:!1321.34NP10058.94E>/A=000041:: Parking ::
+2012-07-26 20:52:06,661 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,661 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,760 - DEBUG - inetproducer.__handleData(149) - Buffering: OK2ARM-6>APRS,T
+2012-07-26 20:52:06,762 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KD7YEE-7>APN391,WIDE1-1,qAR,N8DEU-5:@270309z3502.93N/08658.93W_000/000g003t082r000p000P000h76b10123.DsVP
+2012-07-26 20:52:06,762 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:06,762 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,763 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS8LWP-6>APGJW5-2,qAR,HS8SZH-1:!0826.07N/09952.72Eu265/046/A=000072APRS NSTR Group 0817478833
+2012-07-26 20:52:06,763 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,763 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,862 - DEBUG - inetproducer.__handleData(149) - Buffering: BD5HST-9>A
+2012-07-26 20:52:06,862 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: OK2ARM-6>APRS,TCPIP*,qAC,CORE-2:@270251z4921.26N/01601.10E_337/001g002t057r000P000h94b10145eCumulusWS2300
+2012-07-26 20:52:06,864 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:06,864 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,864 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KB2SKP>APRS,TCPIP*,qAC,FIRST:!4736.00N/12250.40W_045/000g000t070r000h68b10142.VWS-LaCrosseWS2xxx
+2012-07-26 20:52:06,865 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,865 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,964 - DEBUG - inetproducer.__handleData(149) - Buffering: 530201-1>APTHWX,TCPIP*,qAS,APTHWX-1:@270250z1728
+2012-07-26 20:52:06,964 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: BD5HST-9>APG140,TCPIP*,qAC,T2TOKYO:!3017.35N/12006.54E>010/015 APRSBox C1U L
+2012-07-26 20:52:06,964 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,966 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:06,966 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS8XXZ-10>APGJW5-1,WIDE1-1,WIDE2-2,qAS,E27EHM:!1300.65N\10111.77EP100/000/A=000405
+2012-07-26 20:52:06,966 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:06,966 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,065 - DEBUG - inetproducer.__handleData(149) - Buffering: E
+2012-07-26 20:52:07,066 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530201-1>APTHWX,TCPIP*,qAS,APTHWX-1:@270250z1728.78N/10007.48E_133/002g003t081r000p004P002L530h79b10073 SUN:530 W/m2 BAT:14.4V. http://weatherwatch.in.th
+2012-07-26 20:52:07,066 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:07,066 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,068 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: LD7GK>APND14,WIDE2-2,qAR,LA7VRA-4:;LA5XR    *111111z/.H[EQ)"^r   434.850 -2 1750 Gråkallen
+2012-07-26 20:52:07,068 - INFO - aprspacket.parse(296) - Unable to parse: ;LA5XR    *111111z/.H[EQ)"^r   434.850 -2 1750 Gråkallen
+2012-07-26 20:52:07,167 - DEBUG - inetproducer.__handleData(149) - Buffering: WA3UFN-9>TQ0V8Y,qAR,WA3UFN-1:`jJ>n|/j/`"8^
+2012-07-26 20:52:07,167 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E29ZBR-9>APGJW5-3,WIDE1-1,qAS,HS8XXZ:!1030.12N\09910.51EP191/000/A=000004http://www.10watts.org
+2012-07-26 20:52:07,168 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:07,168 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,168 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KC4LU-7>S5TR8U,GRNTOP-3*,WIDE2-1,qAR,KC4LU-2:`pY0o Yv/]"7S}=
+2012-07-26 20:52:07,170 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:07,170 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,269 - DEBUG - inetproducer.__handleData(149) - Buffering: WB0VTM-7>APU25N,WID
+2012-07-26 20:52:07,269 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WA3UFN-9>TQ0V8Y,qAR,WA3UFN-1:`jJ>n|/j/`"8^}ON DUTY_"
+2012-07-26 20:52:07,270 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:07,270 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,270 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JH4CXG-10>APU25N,TCPIP*,qAC,T2EHIME:=3426.18NI13239.15E#PHG32604/144.64MHz 9.6K {UIV32N}
+2012-07-26 20:52:07,272 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:07,272 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,272 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VO1EE>APU25N,TCPIP*,qAC,T2RADOM:=4709.18N/05511.23W-Creston South,NL {UIV32N}
+2012-07-26 20:52:07,273 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:07,273 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,372 - DEBUG - inetproducer.__handleData(149) - Buffering: HS1GBV>APRX20,TCPI
+2012-07-26 20:52:07,372 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WB0VTM-7>APU25N,WIDE2-1,qAR,WB9TLH-15:>262319z-Johnston City, IL Digi contact_wb0vtm@earthlink.net
+2012-07-26 20:52:07,374 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,374 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ON0WTO-2>APNU19-3,WIDE,qAR,ON0DAS-4:!5037.46NL00423.37E# UIDIGI 1.9 B3 W3 NEW Paradigm sysop ON5YN
+2012-07-26 20:52:07,375 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:07,375 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,474 - DEBUG - inetproducer.__handleData(149) - Buffering: KJ4BLW>APK102,WIDE1-1,WIDE2-1,qAR,K4ABB-1:=2605.76N/08006.38W_075/0
+2012-07-26 20:52:07,474 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS1GBV>APRX20,TCPIP*,qAC,T2FINLAND:!1352.48NR10025.00E&BANGYAI NBI VHF GATEWAY
+2012-07-26 20:52:07,476 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:07,476 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,476 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KA4GNY-7>BEACON,WIDE2-2,GA1-1,qAR,KG4MUW:!3342.55NS08410.66W#PHG5464/
+2012-07-26 20:52:07,476 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:07,476 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,576 - DEBUG - inetproducer.__handleData(149) - Buffering: YO5OHZ-1>GPSC30,YO5KUA-1,YO2BT-1,YO2LGP-2,WIDE2*,qAR,YO2LOJ-5:Temp: 26 
+2012-07-26 20:52:07,576 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KJ4BLW>APK102,WIDE1-1,WIDE2-1,qAR,K4ABB-1:=2605.76N/08006.38W_075/005g012t083r   p   P000h74b10182KU2k
+2012-07-26 20:52:07,576 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:07,578 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,578 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE6KM-C>APJI23,TCPIP*,qAC,VE6KM-CS:!5331.59ND11320.77W&RNG0045 2m Voice 145.470 -0.600 MHz
+2012-07-26 20:52:07,578 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:07,578 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,678 - DEBUG - inetproducer.__handleData(149) - Buffering: ZS6EY-9>APCLEY,TCPIP*,qAC,APRS-ZA:/270251
+2012-07-26 20:52:07,680 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: YO5OHZ-1>GPSC30,YO5KUA-1,YO2BT-1,YO2LGP-2,WIDE2*,qAR,YO2LOJ-5:Temp: 26 C
+2012-07-26 20:52:07,680 - INFO - aprspacket.parse(343) - Unrecognized data: Temp: 26 C
+2012-07-26 20:52:07,680 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K0HAM-9>APNU3B,qAR,KD0PCP:!4153.30NS09224.83W#PHG6565 W3,IAN-n Chelsea, IA, Info: aprs@k0ham.com
+2012-07-26 20:52:07,680 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:07,680 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,680 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: PD2ES-9>UQUUY4,WIDE1-1,WIDE2-2,qAR,DO2RIS:'|1(l"Fv/]"4]}
+2012-07-26 20:52:07,681 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:07,681 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,782 - DEBUG - inetproducer.__handleData(149) - Buffering: VA7TDS-12>APT
+2012-07-26 20:52:07,782 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZS6EY-9>APCLEY,TCPIP*,qAC,APRS-ZA:/270251z2644.73S/02749.87Ev295/000/A=004795 27C 0Mv 4033.4km If 12.37V   9kmh
+2012-07-26 20:52:07,782 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:07,782 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,782 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZS6EY-9>APCLEY,TCPIP*,qAC,APRS-ZA:/270251z2644.73S/02749.87Ev319/000/A=004795 28C 5St 4033.4km If 12.43V   0kmh
+2012-07-26 20:52:07,782 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:07,783 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,884 - DEBUG - inetproducer.__handleData(149) - Buffering: VE3EP>APU25N,WIDE2-2,qA
+2012-07-26 20:52:07,884 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VA7TDS-12>APT311,WIDE2-1,qAo,VE7MKF-1:/270251z4903.40N/12248.73W>178/032/A=000160
+2012-07-26 20:52:07,884 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:07,884 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,885 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K9IU-14>APD225,TCPIP*,qAI,K9IU-14,CORE-2,86ADFE26,FIRST:!3910.08N/08631.33W&PHG5030/Igate Bloomington,In.
+2012-07-26 20:52:07,885 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:07,885 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,986 - DEBUG - inetproducer.__handleData(149) - Buffering: VA7NIC-10>APAGW,TCPIP*,qAS,VA7
+2012-07-26 20:52:07,986 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE3EP>APU25N,WIDE2-2,qAR,VA3VEC:@270250z4354.89N/07711.21W_292/000g000t067r000p167P167h71b10040>East Lake Report (ve3ep@rac.ca) {UIV32N}
+2012-07-26 20:52:07,986 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:07,986 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:07,987 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JG1GZK-9>TSQQV0,WIDE1-1,qAR,JH8JFI-2:`E6sl >/`"3y}_"
+2012-07-26 20:52:07,987 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:07,987 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,088 - DEBUG - inetproducer.__handleData(149) - Buffering: K6AGA>APS228,N6EX-1,qAR,N6EX-3:>0117
+2012-07-26 20:52:08,088 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VA7NIC-10>APAGW,TCPIP*,qAS,VA7NIC-1:@261951z4913.51N/12447.50W_254/000g004t071r000p000P000h37b10120/fWD
+2012-07-26 20:52:08,089 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:08,089 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,089 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: F8KOP-4>APRS86,F5ZVO*,WIDE2-1,qAR,F4BQH-13:!4616.83N/00046.77E# (Digipeater APRS ED86)
+2012-07-26 20:52:08,091 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:08,091 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,190 - DEBUG - inetproducer.__handleData(149) - Buffering: KE7LOI-9>T6QRTU,TOLGAT*,WIDE1*,WIDE2-1,qAR,KB7DZR-10:`/`qlHdk/]"5@}JUST OUT AND A
+2012-07-26 20:52:08,191 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K6AGA>APS228,N6EX-1,qAR,N6EX-3:>011701z[228]:We Know Most Of Your Faults!!!
+2012-07-26 20:52:08,191 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,193 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K5KKO-1>APRS,TCPIP*,qAC,CORE-2:=3152.25N/10625.24WyPHG5160/AllStar Link Node
+2012-07-26 20:52:08,193 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:08,193 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,293 - DEBUG - inetproducer.__handleData(149) - Buffering: DB0ARB-11>APRS,OK1JRA-1*,WIDE3-1,qAR,OK1JRA-1:!4906.
+2012-07-26 20:52:08,295 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KE7LOI-9>T6QRTU,TOLGAT*,WIDE1*,WIDE2-1,qAR,KB7DZR-10:`/`qlHdk/]"5@}JUST OUT AND ABOUT=
+2012-07-26 20:52:08,295 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:08,295 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,296 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE3PRC>APTT4,WIDE1-1,WIDE2-1,qAR,VA3BAL-4:>Peel Amateur Radio Club APRS Repeater peelarc.org
+2012-07-26 20:52:08,296 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,296 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HG8LSC>APAGW,TCPIP*,qAC,HG8PXL-JS:>AGWTRACKER
+2012-07-26 20:52:08,296 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,397 - DEBUG - inetproducer.__handleData(149) - Buffering: PA1BM-9>APERXQ,PE1RDW-
+2012-07-26 20:52:08,397 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: DB0ARB-11>APRS,OK1JRA-1*,WIDE3-1,qAR,OK1JRA-1:!4906.74N/01308.13E_anyfrog status: no weather data
+2012-07-26 20:52:08,397 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:08,397 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,398 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W4AP-1>BEACON,WIDE2-1,qAS,KE4LTT:!3222.38N108610.69W#PHG4400/Mgy Digi..
+2012-07-26 20:52:08,398 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:08,398 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,398 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530201-1>APTHWX,TCPIP*,qAS,APTHWX-1:!1728.78N\10007.48Ep
+2012-07-26 20:52:08,398 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:08,398 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,499 - DEBUG - inetproducer.__handleData(149) - Buffering: HK3DRO-10>APU25N,TCPIP*,qAC,iURUGUAY:=0612.50N/07533.94WIPHG2310/Igat
+2012-07-26 20:52:08,499 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: PA1BM-9>APERXQ,PE1RDW-2,WIDE1*,WIDE2-1,qAR,PA3DZW:!5142.41N\00451.33E-0
+2012-07-26 20:52:08,499 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:08,500 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,500 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W4PWC>APTT4,WIDE2-2,WIDE2-2,qAR,K4MQF-2:>/PRINCE WILLIAM COUNTY ARES WEST DIGI
+2012-07-26 20:52:08,500 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,599 - DEBUG - inetproducer.__handleData(149) - Buffering: KB5NMB-2>APU25N,TCPIP*,qAC,T2WESTTN:@270250z3416.16N/08825.27W_283/000g000t084r000p00
+2012-07-26 20:52:08,599 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HK3DRO-10>APU25N,TCPIP*,qAC,iURUGUAY:=0612.50N/07533.94WIPHG2310/Igate Medellin. APRS HK {UIV32N}
+2012-07-26 20:52:08,601 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:08,601 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,601 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KB5NMB-2>APU25N,TCPIP*,qAC,T2WESTTN:=3416.16N/08825.27WoItawamba Co.MS EOC {UIV32N}
+2012-07-26 20:52:08,601 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:08,601 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,703 - DEBUG - inetproducer.__handleData(149) - Buffering: M3BWF>AP
+2012-07-26 20:52:08,703 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KB5NMB-2>APU25N,TCPIP*,qAC,T2WESTTN:@270250z3416.16N/08825.27W_283/000g000t084r000p000P000h84b10122Itawamba Co. MS wx {UIV32N}
+2012-07-26 20:52:08,703 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:08,703 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,704 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JO1YDG-13>APU25N,TCPIP*,qAS,JO1YDG-10:@270252z3535.56N/13831.40E_225/003g004t098r000p000P000h31b10070YAMANASHI Chuo-city 144.66MHz 1200bps {UIV32N}
+2012-07-26 20:52:08,704 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:08,704 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,805 - DEBUG - inetproducer.__handleData(149) - Buffering: 530202-2>APTHWX,TCPIP*,qAS,APTHWX-1:@270250z1727.01N/10008.76E_167/004g006t080r000p005P005L535h76b10064 SUN:535 W/m2 BAT:14.38V. http://weatherwa
+2012-07-26 20:52:08,805 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: M3BWF>APU25N,MB7UC*,WIDE3-3,qAR,M0IRD:>252151zUI-View32 V2.03
+2012-07-26 20:52:08,805 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,905 - DEBUG - inetproducer.__handleData(149) - Buffering: K7NRA>APN391,MINGUS*,AZ3-2,qAR,KE7JGM-1:!3449.18NS11154.54W_PHG3867/W2,AZn C.A.M. Field WX-Digi S
+2012-07-26 20:52:08,905 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530202-2>APTHWX,TCPIP*,qAS,APTHWX-1:@270250z1727.01N/10008.76E_167/004g006t080r000p005P005L535h76b10064 SUN:535 W/m2 BAT:14.38V. http://weatherwatch.in.th
+2012-07-26 20:52:08,907 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:08,907 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:08,907 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: YD9CJI-9>APGJW2,YD9ZCH-2*,WIDE1*,WIDE2-1,qAR,YC9CCS-1:!0825.28S\11534.58Ek149/008/A=001092
+2012-07-26 20:52:08,907 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:08,907 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,007 - DEBUG - inetproducer.__handleData(149) - Buffering: W8VFD>APU25N,TCPIP*,qAC
+2012-07-26 20:52:09,007 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K7NRA>APN391,MINGUS*,AZ3-2,qAR,KE7JGM-1:!3449.18NS11154.54W_PHG3867/W2,AZn C.A.M. Field WX-Digi Sedona, AZ K7NRA
+2012-07-26 20:52:09,009 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:09,009 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,009 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KB0NFD-1>TQPS9U,WIDE1-1,WIDE2-1,qAR,N0BKB-1:`z16l!;k/"89}
+2012-07-26 20:52:09,009 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:09,009 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,010 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: EA2RCF-5>APU25N,TCPIP*,qAC,T2EUSKADI:=4251.06N/00241.34WIIgate Radio Club Foronda. 144.800 {UIV32N}
+2012-07-26 20:52:09,010 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:09,010 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,111 - DEBUG - inetproducer.__handleData(149) - Buffering: JH7JLB>APU25N,TCPIP*,qAC,T2SAPPO
+2012-07-26 20:52:09,111 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W8VFD>APU25N,TCPIP*,qAC,T2PUEBLO:;444.925/R*212219z4154.04N/08025.42WmN8XUA/R CHERRY HILL PA P.L. 186.2
+2012-07-26 20:52:09,111 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:09,111 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,111 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: DL9YCS-3>PSKAPR,TCPIP*,qAC,T2NUERNBG:@270251z5209.05NP00834.61E&PSKmail 1.8.0 server
+2012-07-26 20:52:09,111 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:09,112 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,213 - DEBUG - inetproducer.__handleData(149) - Buffering: F1LXJ-5>APU25N,q
+2012-07-26 20:52:09,213 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JH7JLB>APU25N,TCPIP*,qAC,T2SAPPORO:=3922.32NI14004.19E#PHG3230/ W1,Honjo AKITA 144.66MHz
+2012-07-26 20:52:09,213 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:09,213 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,213 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N9OQW-6>APU25N,TCPIP*,qAS,N9OQW-5:@270251z4006.14N/08737.89W_001/001g001t084r000p000P000h54b09788 Live Weather Data {UIV32N}
+2012-07-26 20:52:09,214 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:09,214 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,315 - DEBUG - inetproducer.__handleData(149) - Buffering: BD5BNM-10>AP
+2012-07-26 20:52:09,315 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: F1LXJ-5>APU25N,qAR,F8BPU:@270251z5031.12N/00255.99E_308/000g001t063r000p000P000h90b10090 CUMULUS upd 5 mm
+2012-07-26 20:52:09,315 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:09,315 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,315 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: PI1SHA-B>APRS,TCPIP*,qAC,PI1SHA-BS:!5222.51ND00516.20E&RNG0009 440 Voice 438.3125MHz -7.6000MHz
+2012-07-26 20:52:09,316 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:09,316 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,417 - DEBUG - inetproducer.__handleData(149) - Buffering: W9ZL-1>APX200,TCPIP*,qAC,T2MIDWEST:;Th
+2012-07-26 20:52:09,417 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: BD5BNM-10>AP4R10,TCPIP*,qAC,T2SAPPORO:!2802.70N/12053.40E#PHG4358APRS4R IGATE 144.640MHZ
+2012-07-26 20:52:09,417 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:09,417 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,417 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KA5PSG-1>APOT21,WIDE2-2,qAR,W4IOS-5:!3227.21N/08844.83W-Meridian, MS 1st APRS DIGI
+2012-07-26 20:52:09,417 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:09,418 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,519 - DEBUG - inetproducer.__handleData(149) - Buffering: SV7GX-2>APU25J,TCPIP*,qAC,SV7GX-2:=4055.56N/02423.26E_APRS SERVER {UIV32}
+2012-07-26 20:52:09,519 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W9ZL-1>APX200,TCPIP*,qAC,T2MIDWEST:;Theda    *270259z4411.24N/08827.26WhTheda Clark Hospital Neenah
+2012-07-26 20:52:09,519 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:09,519 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,519 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: PU2TIR-5>RS389T,PU2UBL-15,WIDE1*,WIDE2-1,qAR,PY2PE-1:`JI^l H>/
+2012-07-26 20:52:09,519 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:09,519 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,621 - DEBUG - inetproducer.__handleData(149) - Buffering: KA4VLZ>APU25N,TCPIP*,qAC,T2MSSOU
+2012-07-26 20:52:09,621 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: SV7GX-2>APU25J,TCPIP*,qAC,SV7GX-2:=4055.56N/02423.26E_APRS SERVER {UIV32}
+2012-07-26 20:52:09,621 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:09,621 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,621 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KB3VXH-7>APY008,KB3WNO-7,WIDE1*,WIDE2-2,qAS,KD8KMQ-1::KB3VXH-7 :test{24
+2012-07-26 20:52:09,622 - INFO - aprspacket.parse(343) - Unrecognized data: :KB3VXH-7 :test{24
+2012-07-26 20:52:09,622 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N1OMJ>APWW10,TCPIP*,qAC,T2GB:;N1OMJ/R  *270251z4227.31N/07110.77Wr449.825MHz T136 -500 R35m
+2012-07-26 20:52:09,624 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:09,624 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,723 - DEBUG - inetproducer.__handleData(149) - Buffering: VK4AQF-9>APRQ01,VK4RBR-3*,WIDE2-1,qAR,VK4OG
+2012-07-26 20:52:09,723 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KA4VLZ>APU25N,TCPIP*,qAC,T2MSSOURI:=3459.14N/08514.29W-Jim & Nelda in Lakeview GA {UIV32N}
+2012-07-26 20:52:09,724 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:09,724 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,726 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: IR6UDA>APU25N,TCPIP*,qAC,IK2CHZ-11:=4350.22N/01220.38E#Digipeater M.Palazzolo 1200 Baud {UIV32}
+2012-07-26 20:52:09,726 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:09,726 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,825 - DEBUG - inetproducer.__handleData(149) - Buffering: JH1IGP-9>SUQYW1,WIDE1-1,qAR,JQ1YWK-1
+2012-07-26 20:52:09,825 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VK4AQF-9>APRQ01,VK4RBR-3*,WIDE2-1,qAR,VK4OG-1:!2732.14S/15304.64Ev140/007/A=000211QTrack mobl
+2012-07-26 20:52:09,826 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:09,826 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,826 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WW4GW-2>APOTW1,K4MQF-3,WIDE1,KV3B-1*,WIDE2-1,qAR,KB3RRL-3:!3733.70N/07845.76W_247/016g018t082P017h69b09722OTW1
+2012-07-26 20:52:09,828 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:09,828 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,927 - DEBUG - inetproducer.__handleData(149) - Buffering: SV7GX>APU25J,TCPIP*,qAS,SV7GX-2:@270251z4055.56N/02423.26E_286/000g001t083r000p000P00
+2012-07-26 20:52:09,927 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JH1IGP-9>SUQYW1,WIDE1-1,qAR,JQ1YWK-10:`C.]lhx>/`"4"}_"
+2012-07-26 20:52:09,928 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:09,928 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:09,930 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: DB0SZS>APU25N,TCPIP*,qAC,T2SWEDEN:>261503zLink zu DB0ZO Dörenberg-Relais (www.DB0ZO.de / .eu)
+2012-07-26 20:52:09,930 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,046 - DEBUG - inetproducer.__handleData(149) - Buffering: E22OYG-5>APWM10,TCPIP*,qAC,CORE-2:@175506h/G!r+gtlG- sT(Ti
+2012-07-26 20:52:10,046 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: SV7GX>APU25J,TCPIP*,qAS,SV7GX-2:@270251z4055.56N/02423.26E_286/000g001t083r000p000P000h59b10013/wx report from KAVALA {UIV32}
+2012-07-26 20:52:10,046 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:10,046 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,046 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS5TCT-9>APGJW6-1,WIDE1-1,WIDE2-1,qAR,NV3A:!1847.65N/09901.48E([v0973]  144.875 Mhz  65 Tawannure
+2012-07-26 20:52:10,046 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:10,048 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,148 - DEBUG - inetproducer.__handleData(149) - Buffering: KD0S-1>APNU19,KC0BXH-3*,WIDE3-1,qAR,WA0MFZ-5:!SD Link PHILIP
+2012-07-26 20:52:10,148 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E22OYG-5>APWM10,TCPIP*,qAC,CORE-2:@175506h/G!r+gtlG- sT(Time 0:00:00)(*NoPhone* 0%)PHG0000 APRS-lnw
+2012-07-26 20:52:10,148 - INFO - aprspacket.parse(296) - Unable to parse: @175506h/G!r+gtlG- sT(Time 0:00:00)(*NoPhone* 0%)PHG0000 APRS-lnw
+2012-07-26 20:52:10,148 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS8IMH-9>APOT21,HS8IMH-3*,WIDE1,qAR,HS8CUK-1:!0907.39NP09919.56EW000/000/A=000143APRS  Thailand
+2012-07-26 20:52:10,150 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:10,150 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,253 - DEBUG - inetproducer.__handleData(149) - Buffering: WB6
+2012-07-26 20:52:10,253 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KD0S-1>APNU19,KC0BXH-3*,WIDE3-1,qAR,WA0MFZ-5:!SD Link PHILIP 147.375 w/ 146.2 tone   2
+2012-07-26 20:52:10,255 - INFO - aprspacket.parse(258) - Unable to parse: !SD Link PHILIP 147.375 w/ 146.2 tone   2
+2012-07-26 20:52:10,255 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530202-2>APTHWX,TCPIP*,qAS,APTHWX-1:!1727.01N\10008.76Ep
+2012-07-26 20:52:10,256 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:10,256 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,256 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WX8GRN-S>APJID2,TCPIP*,qAC,WX8GRN-GS:;WX8GRN B *231710z4311.44ND08520.20WaRNG0040 440 Voice 444.650 +5.00 MHz
+2012-07-26 20:52:10,256 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:10,256 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,357 - DEBUG - inetproducer.__handleData(149) - Buffering: K7NRA>APN391,MINGUS*,WIDE2-1,qAR,KE7JGM-1:!3449.18NS11154.54W_PHG3867/W2,AZn C.A.M. Field WX Digi[D[D
+2012-07-26 20:52:10,357 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WB6BA-S>APJID2,TCPIP*,qAC,WB6BA-GS:;WB6BA  B *270245z3347.73ND11736.64WaRNG0045 440 Voice 446.340
+2012-07-26 20:52:10,358 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:10,358 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,457 - DEBUG - inetproducer.__handleData(149) - Buffering: W9AIU-8>APNU3B,NULL,qAR,KZ9G-10:!3847.13NS08956
+2012-07-26 20:52:10,457 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K7NRA>APN391,MINGUS*,WIDE2-1,qAR,KE7JGM-1:!3449.18NS11154.54W_PHG3867/W2,AZn C.A.M. Field WX Digi[D[D[D[D[D-[C[C[C[C Sedona, AZ K7NRA
+2012-07-26 20:52:10,459 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:10,459 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,460 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E29TDT-9>APGJW6-1,WIDE1-1,WIDE2-1,qAR,HS8LLS-1:!0809.73N\09939.75EP[t1364v1192]    APRS NaKhonSiThamMaRat Group
+2012-07-26 20:52:10,460 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:10,460 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,559 - DEBUG - inetproducer.__handleData(149) - Buffering: 530304-1>APTHWX,TCPIP*,qAS,APTHWX-1:@270250z1748.72N/10021.35E_220/000g...t079r000p000P000L588h79b10
+2012-07-26 20:52:10,559 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W9AIU-8>APNU3B,NULL,qAR,KZ9G-10:!3847.13NS08956.36W#PHG7460 W3,ILn   Edw,IL.   Egyptain RC
+2012-07-26 20:52:10,561 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:10,561 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,562 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: OH7AI-2>APZMDR,OH7RDA*,qAR,OH7BD:!6333.00N/02711.14E#
+2012-07-26 20:52:10,562 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:10,562 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,663 - DEBUG - inetproducer.__handleData(149) - Buffering: VA3BIT>T5RT8Z,VE2REH-3,WIDE2*,qAR,VA2PBS-3:'
+2012-07-26 20:52:10,663 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530304-1>APTHWX,TCPIP*,qAS,APTHWX-1:@270250z1748.72N/10021.35E_220/000g...t079r000p000P000L588h79b10061 SUN:588 W/m2 BAT:14.4V. http://weatherwatch.in.th
+2012-07-26 20:52:10,664 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:10,664 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,664 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: OH6NT-1>APRS,TCPIP*,qAC,T2POLC:@250325z6335.95N/02247.13E_284/000g000t055r000p000P000h93b10158.DsVP
+2012-07-26 20:52:10,664 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:10,664 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,765 - DEBUG - inetproducer.__handleData(149) - Buffering: W7RAT-1>AP
+2012-07-26 20:52:10,765 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VA3BIT>T5RT8Z,VE2REH-3,WIDE2*,qAR,VA2PBS-3:'gEAl  #1]Ottawa Downtown Fill-in Digipeater=
+2012-07-26 20:52:10,765 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:10,765 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,766 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N4AC>APWW10,TCPIP*,qAC,T2NBRASKA:@025140h3408.24N/08408.83Wy(Head 114%)N4AC@amsat.org
+2012-07-26 20:52:10,766 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:10,766 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,766 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JA6KTB-14>S3QPY5,WIDE1-1,qAR,JG6YDV-10:`93$n,/k/]"4R}=
+2012-07-26 20:52:10,766 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:10,766 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,868 - DEBUG - inetproducer.__handleData(149) - Buffering: BRUJO>APN38
+2012-07-26 20:52:10,868 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W7RAT-1>APUN10,TCPIP*,qAC,T2NORWAY:;IRLP-3564*270251z4552.91NC12357.86W0146.500MHz PL123.0: Linked 9250 REF
+2012-07-26 20:52:10,868 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:10,868 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,869 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VA3BIT>T5RT8Z,VE2REH-3,WIDE2*,qAR,VE2FET-1:'gEAl #1]Ottawa Downtown Fill-in Digipeater=
+2012-07-26 20:52:10,869 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:10,869 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,970 - DEBUG - inetproducer.__handleData(149) - Buffering: EA5RCD-15>APRE
+2012-07-26 20:52:10,970 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: BRUJO>APN382,WIDE2-1,qAR,KP4FRE-2:!1759.36NL06601.59W#PHG5570 W3,WP4YF-ARROYO PR/A=000300
+2012-07-26 20:52:10,971 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:10,971 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:10,971 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: LA7LW-5>APNW03,TCPIP*,qAC,T2POLAND:/270309z5827.81N/00844.13E_000/000g000t048r000P000h85b10112WXETH 1_00
+2012-07-26 20:52:10,973 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:10,973 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,072 - DEBUG - inetproducer.__handleData(149) - Buffering: WB4BXO-7>AP
+2012-07-26 20:52:11,072 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: EA5RCD-15>APREA5,WIDE4-4,qAR,EA5AER-3:>Denia Alicante 70 msnm JM08BU www.ea5rcd.com
+2012-07-26 20:52:11,072 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,073 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JR6KNE-9>SQURQ2,WIDE1-1,WIDE2-1,qAR,JG6YFN-10:`;63l v/
+2012-07-26 20:52:11,073 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:11,073 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,075 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: NASHUA>APTT4,WIDE1-1,WIDE2-1,qAo,AE0TB-6:>(D18a) Nashua, IA
+2012-07-26 20:52:11,075 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,174 - DEBUG - inetproducer.__handleData(149) - Buffering: IR6UDA-3>APU25N,TCPIP*,qAS,IR6UDA:@270251z4350.22N/01220.38E_279/005g010t066r000p000P000h72b10149-Wx 
+2012-07-26 20:52:11,174 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WB4BXO-7>APOT21,AB4KN-2,N4NEQ-3*,WIDE2,qAR,AJ4HV-5:!3259.31N/08500.04W# 13.6V  97F  W3,GA3,LARC LaGrange, GA
+2012-07-26 20:52:11,176 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:11,176 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,176 - INFO - inetproducer.start(67) - Packet Tally: 2146, K. Bytes Tally: 191, BPS: 1.91
+2012-07-26 20:52:11,276 - DEBUG - inetproducer.__handleData(149) - Buffering: OZ1REC-S>APRS,TCPIP*,qAC,OZ1REC-GS:;OZ1REC B *270251z5702.17ND00954.75EaRNG0
+2012-07-26 20:52:11,276 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: IR6UDA-3>APU25N,TCPIP*,qAS,IR6UDA:@270251z4350.22N/01220.38E_279/005g010t066r000p000P000h72b10149-Wx Davis Vantage PRO II {UIV32}
+2012-07-26 20:52:11,278 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:11,278 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,278 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZS0NTP-10>APU25N,TCPIP*,qAC,APRS-ZA:;TOWN UHF *222132z3357.08S/02534.53ErPE UHF - 438.650MHz
+2012-07-26 20:52:11,279 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:11,279 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,378 - DEBUG - inetproducer.__handleData(149) - Buffering: XE1BRX-1>APU25N,TCPIP*,qAC,T2VAN:;Cruz Roja*291654z2039.98N/10121.52W+Cruz 
+2012-07-26 20:52:11,380 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: OZ1REC-S>APRS,TCPIP*,qAC,OZ1REC-GS:;OZ1REC B *270251z5702.17ND00954.75EaRNG0006 440 Voice 434.5500MHz -2.0000MHz
+2012-07-26 20:52:11,380 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:11,381 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,381 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KD0BXJ-2>APNX01,WIDE2-2,qAR,KD0BXJ-3:!4350.90N/09507.35W#PHG5330 W2, SSn-N Windom, MN
+2012-07-26 20:52:11,381 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:11,381 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,482 - DEBUG - inetproducer.__handleData(149) - Buffering: GB7PI-S>APJID2,TCPIP
+2012-07-26 20:52:11,482 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: XE1BRX-1>APU25N,TCPIP*,qAC,T2VAN:;Cruz Roja*291654z2039.98N/10121.52W+Cruz Roja Irapuato
+2012-07-26 20:52:11,483 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:11,483 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,483 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W5MPZ-B>APJI23,TCPIP*,qAC,W5MPZ-BS:!3513.01ND10627.14W&RNG0060 443.800MHz +5 MHz voice
+2012-07-26 20:52:11,483 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:11,483 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,484 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: LA9LRA-9>APPT10,LD1FA*,WIDE2-2,qAR,LD3JS:/025138h5914.06N/01056.33Ex085/000
+2012-07-26 20:52:11,484 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:11,484 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,585 - DEBUG - inetproducer.__handleData(149) - Buffering: 9A3COL-9>APOTC1,WIDE2-2,qAR,9A1CIG-10:/270251z4331.51N/01629.36E>047/041/A=000095 12.8V 23C- Kruno mobil - Spl
+2012-07-26 20:52:11,585 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: GB7PI-S>APJID2,TCPIP*,qAC,GB7PI-GS:;GB7PI  B *261540z5200.58ND00000.11WaRNG0060 440 Voice 439.9125 -9.00 MHz
+2012-07-26 20:52:11,585 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:11,585 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,686 - DEBUG - inetproducer.__handleData(149) - Buffering: MKGBRD>BEACON,VE6
+2012-07-26 20:52:11,687 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 9A3COL-9>APOTC1,WIDE2-2,qAR,9A1CIG-10:/270251z4331.51N/01629.36E>047/041/A=000095 12.8V 23C- Kruno mobil - Split
+2012-07-26 20:52:11,687 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:11,687 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,687 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: DO2ML-5>AP4R10,TCPIP*,qAC,T2EISBERG:> Email Sysop: M1STIC@M1STIC.DE
+2012-07-26 20:52:11,688 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,688 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: SA5BUM-5>APRS,TCPIP*,qAC,T2MEXICO:@270251z5924.70N/01629.18E_099/001g002t050r000p000P000h89b10234eCumulusFO
+2012-07-26 20:52:11,688 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:11,688 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,789 - DEBUG - inetproducer.__handleData(149) - Buffering: SK6SA-S>APRS,TCPIP*,qAC,SK6SA-GS:;SK6SA  B *270251z5740.71N
+2012-07-26 20:52:11,789 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: MKGBRD>BEACON,VE6JXJ-1,WIDE2*,qAR,VE6MEO-1:;147.075+ *111111z5125.50N/11504.30WrT100      VE6GAB
+2012-07-26 20:52:11,789 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:11,790 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,790 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JA3KPZ-7>STSVT1,WIDE1-1,qAR,JA3KPZ-2:`?HHl@7[/>"4N}TH-D72=
+2012-07-26 20:52:11,790 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:11,792 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,891 - DEBUG - inetproducer.__handleData(149) - Buffering: JH6BMZ-9>S2TTX8,WIDE1-1,WIDE2-1,qAS,JA6ZME-10:`:E nJ
+2012-07-26 20:52:11,892 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: SK6SA-S>APRS,TCPIP*,qAC,SK6SA-GS:;SK6SA  B *270251z5740.71ND01158.76EaRNG0040 440 Voice 434.5125MHz -2.0000MHz
+2012-07-26 20:52:11,892 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:11,892 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,894 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KF5LOG-1>APRS,TCPIP*,qAC,CORE-2:=3249.38N/09725.46WrPHG506000/147.540 AllStar Link Node 28166
+2012-07-26 20:52:11,894 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:11,894 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,994 - DEBUG - inetproducer.__handleData(149) - Buffering: LW1DVA-1>APU25N,TCPIP*,qAC,iURUGUAY:=3802.50S/05732.38W_Mar del 
+2012-07-26 20:52:11,996 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JH6BMZ-9>S2TTX8,WIDE1-1,WIDE2-1,qAS,JA6ZME-10:`:E nJ#>/]"3y}=
+2012-07-26 20:52:11,996 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:11,996 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:11,996 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: CT0XBU-3>APOT21,WIDE3-3,CT2HKY,HKYNET,qAS,CT2HKY:!4022.00N/00821.00W#10.3V  25C  Serra do Bucaco - ARCP - Repetidor de APRS
+2012-07-26 20:52:11,996 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:11,996 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,099 - DEBUG - inetproducer.__handleData(149) - Buffering: ED6YAC>APU25N,TCPIP*,qAC,T2SPAIN:=3932.74
+2012-07-26 20:52:12,101 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: LW1DVA-1>APU25N,TCPIP*,qAC,iURUGUAY:=3802.50S/05732.38W_Mar del Plata - 144420 QAP {UIV32N}
+2012-07-26 20:52:12,101 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:12,101 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,102 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: LW1DVA-1>APU25N,TCPIP*,qAC,iURUGUAY:@270251z3802.50S/05732.38W_304/003g004t041r000p6947P001h63b10190 /  QAP 144420 Mar del Plata
+2012-07-26 20:52:12,102 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:12,102 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,203 - DEBUG - inetproducer.__handleData(149) - Buffering: W1SQL-1>APU25N,TCPIP*,qAC,FIRST:=4111.09N/07314.89
+2012-07-26 20:52:12,204 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ED6YAC>APU25N,TCPIP*,qAC,T2SPAIN:=3932.74N/00312.47EmR2    URE Manacor JM19ON  145650 {UIV32N}
+2012-07-26 20:52:12,204 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:12,206 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,206 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E20QVD-9>APGJW4-2,WIDE1-1,WIDE2-1,qAR,NV3A:!1846.04N/09859.08E>285/050Chiang Mai  APRS Group
+2012-07-26 20:52:12,206 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:12,206 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,306 - DEBUG - inetproducer.__handleData(149) - Buffering: HS8XXZ-12>APGJW5-1,WIDE1-1,qAR,HS8SDZ-1:!1052.92N/09919.93Ek168/029/A=00035310WATTS CONF 145.737
+2012-07-26 20:52:12,306 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W1SQL-1>APU25N,TCPIP*,qAC,FIRST:=4111.09N/07314.89WIPHG73844 Fairfield w1sql@arrl.net {UIV32}
+2012-07-26 20:52:12,308 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:12,308 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,309 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K9RCZ>T1TT2S,WIDE1-1,WIDE2-1,qAS,WA9RFY-4:`qH:" Zv/]"6U}=
+2012-07-26 20:52:12,309 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:12,309 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,410 - DEBUG - inetproducer.__handleData(149) - Buffering: IV3NTL-9>TU3Q49,IR3CA*,WIDE,qAR,IR3CO-10:'(/U!{@>/]"3r}QRV RU5,RU
+2012-07-26 20:52:12,410 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS8XXZ-12>APGJW5-1,WIDE1-1,qAR,HS8SDZ-1:!1052.92N/09919.93Ek168/029/A=00035310WATTS CONF 145.7375MHz
+2012-07-26 20:52:12,411 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:12,411 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,411 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: EA1AML>APU25N,EA1A-3*,WIDE3-2,qAR,EA1URO-10:@270250z4243.39N/00639.18W_174/000g003t054r000p003P000h99b10171 /VEGA DE ESPINAREDA
+2012-07-26 20:52:12,411 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:12,411 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,512 - DEBUG - inetproducer.__handleData(149) - Buffering: W7BOZ-10>APWW10,TCPIP*,qAC,Firenet:T#506,
+2012-07-26 20:52:12,512 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: IV3NTL-9>TU3Q49,IR3CA*,WIDE,qAR,IR3CO-10:'(/U!{@>/]"3r}QRV RU5,RU10, 435.625
+2012-07-26 20:52:12,512 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:12,513 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,513 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530304-1>APTHWX,TCPIP*,qAS,APTHWX-1:!1748.72N\10021.35Ep
+2012-07-26 20:52:12,513 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:12,513 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,513 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W5KGT>BEACON,qAR,KA5CCS:;146.850-X*111111z3231.39N/9206.08Wr R35m NET 630 Mon Mtg1stTu
+2012-07-26 20:52:12,515 - INFO - aprspacket.parse(296) - Unable to parse: ;146.850-X*111111z3231.39N/9206.08Wr R35m NET 630 Mon Mtg1stTu
+2012-07-26 20:52:12,615 - DEBUG - inetproducer.__handleData(149) - Buffering: N9EH-14>TR4XSV,WIDE1-1,WIDE2-2,qAR,KA7O-15:'r0+o
+2012-07-26 20:52:12,615 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W7BOZ-10>APWW10,TCPIP*,qAC,Firenet:T#506,090,048,002,500,000,10000000
+2012-07-26 20:52:12,615 - INFO - aprspacket.parse(343) - Unrecognized data: T#506,090,048,002,500,000,10000000
+2012-07-26 20:52:12,617 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N8PXE>APU25N,W4NN-1*,WIDE2-1,qAR,KK4DIV-10:@270251z3044.18N/08633.17W_315/000g000t085r000p000P000b10087h10/fWD {UIV32N}
+2012-07-26 20:52:12,617 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:12,617 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,717 - DEBUG - inetproducer.__handleData(149) - Buffering: VE7MEC-9>APT311,THYNNE,WIDE1*,WIDE2-1,qAR,VE7GDH-10:/270251z4954.65N/12054.20Wk342/0
+2012-07-26 20:52:12,717 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N9EH-14>TR4XSV,WIDE1-1,WIDE2-2,qAR,KA7O-15:'r0+oftu/]"FE}Pendleton 2 Evensville,WY
+2012-07-26 20:52:12,719 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:12,719 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:12,719 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE2EKL-9>GPSMV,WIDE1-1,WIDE3-3,qAR,VE2FET-1:$GPRMC,,V,,,,,,,270712,15.4,W,N*1B
+2012-07-26 20:52:12,720 - INFO - aprspacket.parseAprs(183) - **Error parsing data: VE2EKL-9>GPSMV,WIDE1-1,WIDE3-3,qAR,VE2FET-1:$GPRMC,,V,,,,,,,270712,15.4,W,N*1B
+2012-07-26 20:52:12,720 - ERROR - inetproducer.start(72) - Select failed, attempt to reopen socket
+Traceback (most recent call last):
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\inetproducer.py", line 64, in start
+    self.__handleData()
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\inetproducer.py", line 178, in __handleData
+    ok = packet.parseAprs(line.strip(),utcTime)
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\aprspacket.py", line 180, in parseAprs
+    r=self.payload.parse(self)
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\aprspacket.py", line 320, in parse
+    self.latitude=int(d[3][:2]) + float(d[3][2:])/60.0
+ValueError: invalid literal for int() with base 10: ''
+2012-07-26 20:52:12,720 - ERROR - inetproducer.start(73) - readReady - [<socket._socketobject object at 0x023C40D8>]
+Traceback (most recent call last):
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\inetproducer.py", line 64, in start
+    self.__handleData()
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\inetproducer.py", line 178, in __handleData
+    ok = packet.parseAprs(line.strip(),utcTime)
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\aprspacket.py", line 180, in parseAprs
+    r=self.payload.parse(self)
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\aprspacket.py", line 320, in parse
+    self.latitude=int(d[3][:2]) + float(d[3][2:])/60.0
+ValueError: invalid literal for int() with base 10: ''
+2012-07-26 20:52:12,721 - ERROR - inetproducer.start(74) - writeReady - []
+Traceback (most recent call last):
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\inetproducer.py", line 64, in start
+    self.__handleData()
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\inetproducer.py", line 178, in __handleData
+    ok = packet.parseAprs(line.strip(),utcTime)
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\aprspacket.py", line 180, in parseAprs
+    r=self.payload.parse(self)
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\aprspacket.py", line 320, in parse
+    self.latitude=int(d[3][:2]) + float(d[3][2:])/60.0
+ValueError: invalid literal for int() with base 10: ''
+2012-07-26 20:52:12,721 - ERROR - inetproducer.start(75) - inReady - []
+Traceback (most recent call last):
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\inetproducer.py", line 64, in start
+    self.__handleData()
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\inetproducer.py", line 178, in __handleData
+    ok = packet.parseAprs(line.strip(),utcTime)
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\aprspacket.py", line 180, in parseAprs
+    r=self.payload.parse(self)
+  File "E:\School\JavaProjects\ProjectStorc_Prediction\pyaprs\aprspacket.py", line 320, in parse
+    self.latitude=int(d[3][:2]) + float(d[3][2:])/60.0
+ValueError: invalid literal for int() with base 10: ''
+2012-07-26 20:52:13,221 - DEBUG - inetproducer.__openSocket(94) - Open Socket (first.aprs.net:20152)
+2012-07-26 20:52:13,328 - DEBUG - inetproducer.__aprsisLogin(117) - APRSIS Login: # javAPRSSrvr 3.15b08
+
+2012-07-26 20:52:13,328 - DEBUG - inetproducer.__aprsisLogin(118) - Sending: user KE7FXL pass 22445 vers pyaprs 0.0
+2012-07-26 20:52:13,380 - DEBUG - inetproducer.__aprsisLogin(121) - Response: # logresp KE7FXL verified, server FIRST
+2012-07-26 20:52:13,380 - DEBUG - inetproducer.__aprsisLogin(124) - Login Successful
+2012-07-26 20:52:13,480 - DEBUG - inetproducer.__handleData(149) - Buffering: AA5JM-1>
+2012-07-26 20:52:13,480 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JG2UOR-10>APU25N,TCPIP*,qAC,T2JNET:=3503.94NI13709.25E&Toyota-city,Aichi {UIV32N}
+2012-07-26 20:52:13,480 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:13,480 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,480 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N5UDK-5>APU25N,TCPIP*,qAC,CORE-2:@270251z3051.68N/08908.32W_210/000g000t084r000p000P000h69b10129_Wiggins WX
+2012-07-26 20:52:13,482 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:13,482 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,582 - DEBUG - inetproducer.__handleData(149) - Buffering: N9UIB>APX200,TCPIP*,qAC,T2MIDWEST:=4004.66N/08629.17W-PHG300
+2012-07-26 20:52:13,582 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: AA5JM-1>APOT21,K5BWD-10*,WIDE1,WIDE2-1,qAR,N5AG-5:T#092,160,162,250,000,000,00000010
+2012-07-26 20:52:13,582 - INFO - aprspacket.parse(343) - Unrecognized data: T#092,160,162,250,000,000,00000010
+2012-07-26 20:52:13,584 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K5KJ-7>SRUZLZ,WIDE3-3,qAR,N5DTX-5:'|BTl -/]QRA_146.480 !SN!
+2012-07-26 20:52:13,584 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:13,584 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,684 - DEBUG - inetproducer.__handleData(149) - Buffering: S59DBC-10>APU25N,TCPIP*,qAC,s50aop:=4644.02N/01610.65E&Sys S5
+2012-07-26 20:52:13,684 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N9UIB>APX200,TCPIP*,qAC,T2MIDWEST:=4004.66N/08629.17W-PHG3000XASTIR-Linux
+2012-07-26 20:52:13,686 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:13,686 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,687 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: F2VI>APU25N,TCPIP*,qAC,T2FRANCE:=4310.09N/00602.86E-
+2012-07-26 20:52:13,687 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:13,687 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,687 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JN1WYF-7>SWSRQ0,JI7OSI-1*,WIDE2-1,qAR,JK7CNB-10:`D^?l"p</`"9Z}VX-8 _
+2012-07-26 20:52:13,687 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:13,687 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,788 - DEBUG - inetproducer.__handleData(149) - Buffering: EA2RCU-15>APRS,TCPIP*
+2012-07-26 20:52:13,789 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: S59DBC-10>APU25N,TCPIP*,qAC,s50aop:=4644.02N/01610.65E&Sys S53ZO, APRS iGate-JN86CR-300m ASL
+2012-07-26 20:52:13,789 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:13,789 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,789 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: BG0GE-10>AP4R10,TCPIP*,qAC,T2FZ:!3417.66N/10853.52E&PHG5390Xi'An APRS@iGate 144.640Mhz
+2012-07-26 20:52:13,789 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:13,790 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,790 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530406-1>APTHWX,TCPIP*,qAS,APTHWX-1:!1751.51N\10057.86E(
+2012-07-26 20:52:13,792 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:13,792 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,891 - DEBUG - inetproducer.__handleData(149) - Buffering: E27EHM>APLX10,qAR,HS2PQV:>APRS-IS 
+2012-07-26 20:52:13,892 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: EA2RCU-15>APRS,TCPIP*,qAC,CORE-2:@270252z4308.00N/00257.00W_010/000g000r000p000P000FWX
+2012-07-26 20:52:13,892 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:13,892 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,894 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZS0NTP-10>APU25N,TCPIP*,qAC,APRS-ZA:;EL TOWN  *222104z3300.42S/02753.95ErEast London - 145.650MHz
+2012-07-26 20:52:13,894 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:13,894 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,994 - DEBUG - inetproducer.__handleData(149) - Buffering: F4BQH-13>BEACON,TCPIP*,qAS,F4BQH:@270252z4510.75N/00039.39E_270/002g005t071r000
+2012-07-26 20:52:13,996 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E27EHM>APLX10,qAR,HS2PQV:>APRS-IS Core Server Disconnected*
+2012-07-26 20:52:13,996 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:13,996 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: F6DAA-1>APX194,TCPIP*,qAC,T2FRANCE:=4721.26N/00136.00W&Xastir Linux Grandchamp des Fontaines
+2012-07-26 20:52:13,996 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:13,996 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,098 - DEBUG - inetproducer.__handleData(149) - Buffering: WW4GW-2>APOTW1,W4RAT-6,WIDE1,KB4ZIN-5,WIDE2*,qAo,KB4YFK:!3733.70N/07845.76W_230/011g019t082P017h
+2012-07-26 20:52:14,098 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: F4BQH-13>BEACON,TCPIP*,qAS,F4BQH:@270252z4510.75N/00039.39E_270/002g005t071r000P000h74b10113Station mereo de Marsac (24)
+2012-07-26 20:52:14,099 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:14,099 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,099 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VK4FIL-9>RW13Y5,VK4DC-1*,WIDE2-2,qAR,VK4TEC-6:`QY9m>$K\"41}
+2012-07-26 20:52:14,101 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:14,101 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,200 - DEBUG - inetproducer.__handleData(149) - Buffering: 530400-1>APTHWX,TCPIP*,qAS,APTHWX-1:@270250z1743.52N/10040.89E_266/008g014t082r000p002P
+2012-07-26 20:52:14,201 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WW4GW-2>APOTW1,W4RAT-6,WIDE1,KB4ZIN-5,WIDE2*,qAo,KB4YFK:!3733.70N/07845.76W_230/011g019t082P017h69b09720OTW1
+2012-07-26 20:52:14,201 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:14,201 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,203 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: TAOSKI>APN382,WIDE2-1,qAR,N0KM-1:!3634.54NS10527.10W#PHG4730/W4,NMn/N5DIG-10 Digi www.urfmsi.org
+2012-07-26 20:52:14,203 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:14,203 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,302 - DEBUG - inetproducer.__handleData(149) - Buffering: E21RBE>APU25N,TCPIP*,qAC,ISPTH-1:=1321.23NI10058.90E&VR AMATA.CO
+2012-07-26 20:52:14,303 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530400-1>APTHWX,TCPIP*,qAS,APTHWX-1:@270250z1743.52N/10040.89E_266/008g014t082r000p002P000L725h73b10053 SUN:725 W/m2 BAT:14.5V. http://weatherwatch.in.th
+2012-07-26 20:52:14,305 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:14,305 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,305 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WR4JW-1>APU25N,WIDE1-1,WIDE2-1,qAR,N8DEU-5:>130251zUI-View32 V2.03
+2012-07-26 20:52:14,305 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,405 - DEBUG - inetproducer.__handleData(149) - Buffering: HS5WYM-9>A
+2012-07-26 20:52:14,405 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E21RBE>APU25N,TCPIP*,qAC,ISPTH-1:=1321.23NI10058.90E&VR AMATA.COM {UIV32N}
+2012-07-26 20:52:14,407 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:14,407 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,407 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: LZ0DSB-B>APRS,TCPIP*,qAC,LZ0DSB-BS:!4243.07ND02455.07E&RNG0050 440 Voice 439.1000MHz -7.6000MHz YAESUstar
+2012-07-26 20:52:14,407 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:14,407 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,407 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: BH1IEO>RXTLM-1,TCPIP*,qAC,ISPTH-1:T#411,8.6,0.0,47.0,0.0,0.0,00000000
+2012-07-26 20:52:14,407 - INFO - aprspacket.parse(343) - Unrecognized data: T#411,8.6,0.0,47.0,0.0,0.0,00000000
+2012-07-26 20:52:14,509 - DEBUG - inetproducer.__handleData(149) - Buffering: HB9KBJ-8>APRS,TCPIP*,qAC,C
+2012-07-26 20:52:14,509 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS5WYM-9>APGJW4-2,WIDE1-1,WIDE2-1,qAS,HS5ITN:!1816.88NP09928.87E>063/006/A=000825Phrae APRS Group
+2012-07-26 20:52:14,509 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:14,509 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,510 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N1VG>APU25N,TCPIP*,qAC,SIXTH:=3455.26N\12026.51WhArgent Data Sys 543 W Betteravia H
+2012-07-26 20:52:14,510 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:14,512 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,611 - DEBUG - inetproducer.__handleData(149) - Buffering: HS4RKT-9>APGJW6-1,WIDE1-1,WIDE2-1,qAS,H
+2012-07-26 20:52:14,612 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HB9KBJ-8>APRS,TCPIP*,qAC,CORE-2:@270252z4718.32N/00756.73E_055/000g000t062r000p000P000h91b10177.DsVP
+2012-07-26 20:52:14,614 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:14,614 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,615 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N9LYE>APU25N,TCPIP*,qAC,T2MCI:=4117.03N/08808.78W#PHG7130/Wilmington IL I-Gate Digi
+2012-07-26 20:52:14,615 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:14,615 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,714 - DEBUG - inetproducer.__handleData(149) - Buffering: W8JES>APU25N,TCPIP*,qAC,T2TEXAS:;MAIL_FO
+2012-07-26 20:52:14,716 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS4RKT-9>APGJW6-1,WIDE1-1,WIDE2-1,qAS,HS4RKT:!1718.01N\10237.76EP000/000/A=00078210Watts Conferance
+2012-07-26 20:52:14,716 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:14,717 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,717 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E27FSR-9>APGJW6,WIDE1-1,qAR,E27DRU:!1240.37NP10119.48E_000/000STOP@IRPC GROUP RAYONG 144.950 MHz
+2012-07-26 20:52:14,717 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:14,717 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,818 - DEBUG - inetproducer.__handleData(149) - Buffering: N8MLU>APU25N,KB9GYO-3*,WIDE2-1,qAR,W8VFR-3:=3913.05N/08440.99W-Ham Nation http://twit.tv
+2012-07-26 20:52:14,818 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W8JES>APU25N,TCPIP*,qAC,T2TEXAS:;MAIL_FOR *270237z4103.45N\08338.65W?No Messages
+2012-07-26 20:52:14,819 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:14,819 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,819 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K3BZG-3>APOT21,N3TJJ-8*,WIDE1-1,qAS,W3HZU:>NUMIDIA AIRPORT ---  8PA0
+2012-07-26 20:52:14,819 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,920 - DEBUG - inetproducer.__handleData(149) - Buffering: VA3NNW>
+2012-07-26 20:52:14,921 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N8MLU>APU25N,KB9GYO-3*,WIDE2-1,qAR,W8VFR-3:=3913.05N/08440.99W-Ham Nation http://twit.tv/hn {UIV32N}
+2012-07-26 20:52:14,921 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:14,921 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,923 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS6TKW-9>APGJW6-1,qAS,E20YUC:!1415.85N\10043.10EP053/001/A=000003
+2012-07-26 20:52:14,924 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:14,924 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:14,924 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: MB6PY-S>APRS,TCPIP*,qAC,MB6PY-GS:;MB6PY  B *270252z5259.31ND00045.27WaRNG0000 440 Voice 431.1250MHz +0.0000MHz
+2012-07-26 20:52:14,924 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:14,924 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,026 - DEBUG - inetproducer.__handleData(149) - Buffering: SP2OFR>APU25N,TCP
+2012-07-26 20:52:15,026 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VA3NNW>APRS,TCPIP*,qAC,CORE-2:/270252z4327.07N/08033.98W_045/003g006t069P184h96b10056 NoseyWX WH1081 Beechwood
+2012-07-26 20:52:15,026 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:15,026 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,028 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KD8JBF-3>APRS,TCPIP*,qAC,T2CMH:=4047.59N/08228.67WrPHG9260/AllStar Link Node
+2012-07-26 20:52:15,028 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:15,028 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,128 - DEBUG - inetproducer.__handleData(149) - Buffering: VA3JLF-1>APRS,TCPIP*,qAC,T2LG
+2012-07-26 20:52:15,128 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: SP2OFR>APU25N,TCPIP*,qAC,T2FINLAND:;SP5ZHH/2 *161543z5336.07N/01829.27E;OBOZ HARCERSKI
+2012-07-26 20:52:15,128 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:15,130 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,130 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: YC9CCS-1>APRX20,TCPIP*,qAC,T2AUST:!0826.46SI11536.89E&PHG6280/aprxv2.0 Linux Igate TPlink WR1043ND
+2012-07-26 20:52:15,131 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:15,131 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,230 - DEBUG - inetproducer.__handleData(149) - Buffering: K7FFN>ST1T
+2012-07-26 20:52:15,232 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VA3JLF-1>APRS,TCPIP*,qAC,T2LGA:!4356.00N/07710.00W_000/000g000t069r000P191p191h95b09970.VWS-OregonWMR200
+2012-07-26 20:52:15,232 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:15,232 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,233 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE1DSR-S>APJID2,TCPIP*,qAC,VE1DSR-GS:;VE1DSR C *261353z4433.75ND06436.57WaRNG0030 2m Voice 145.290Mhz +.600 Mhz
+2012-07-26 20:52:15,233 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:15,233 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,334 - DEBUG - inetproducer.__handleData(149) - Buffering: F6KID-3>ID,qAR,F4DVK:>DIGI_NED: F6KID-3 Radio-Cl
+2012-07-26 20:52:15,335 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K7FFN>ST1TTY,WIDE1-1,WIDE2-1,qAR,W7AWH:`'.slSk>/]"D`}=
+2012-07-26 20:52:15,335 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:15,335 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,335 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: G4MRS-2>APNU19,WIDE1-1,qAR,MB7UIP:!5203.38N/00116.81E#UIDIGI1.9B3: Martlesham RS - http://www.m6t.net 1
+2012-07-26 20:52:15,335 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:15,336 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,437 - DEBUG - inetproducer.__handleData(149) - Buffering: 530400-1>
+2012-07-26 20:52:15,437 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: F6KID-3>ID,qAR,F4DVK:>DIGI_NED: F6KID-3 Radio-Club RCN-EG
+2012-07-26 20:52:15,437 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,438 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE3PGC-L>APRS,TCPIP*,qAC,CORE-2:=4508.46N/07449.89WxPHG5580/AllStar Link Node
+2012-07-26 20:52:15,438 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:15,438 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,440 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: SZ4KRD-4>APOTC1,SV4IMT-11,SZ4SRM-11*,TRACE,qAR,SV4FFB-1:!3921.72N/02154.27Em 12.2V 27C telemetry R4
+2012-07-26 20:52:15,440 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:15,440 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,539 - DEBUG - inetproducer.__handleData(149) - Buffering: GAYLOR>APRS,WIDE2-2,qAR,NW5AR:!3545.03NN094
+2012-07-26 20:52:15,540 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530400-1>APTHWX,TCPIP*,qAS,APTHWX-1:!1743.52N\10040.89Ep
+2012-07-26 20:52:15,540 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:15,542 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,542 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: G0HWC-WX>APWW10,WIDE1-1,WIDE2-1,qAS,G0HWC:/270352z5148.82N/00110.13E_001/001g004t058r000p000P000h98b10137
+2012-07-26 20:52:15,542 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:15,542 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,642 - DEBUG - inetproducer.__handleData(149) - Buffering: KI4WXS-9>APRSWX,WIDE2-2,qAR,WW4DC:@270252z3517.82N/08106.92W_262/002
+2012-07-26 20:52:15,644 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: GAYLOR>APRS,WIDE2-2,qAR,NW5AR:!3545.03NN09406.95W#PHG4630 HIGHEST POINT ON U.S. 71 IN ARK.
+2012-07-26 20:52:15,644 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:15,644 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,644 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WB4GNA-8>APTW01,W4ZAC-1*,AL2-1,qAR,WB4FAY-5:!3329.10N\08548.53W_CHEAHA MTN.WXTrak
+2012-07-26 20:52:15,644 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:15,645 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,746 - DEBUG - inetproducer.__handleData(149) - Buffering: KI6OCB-9>SX5QTT,WIDE1-1,WIDE2-1,q
+2012-07-26 20:52:15,746 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KI4WXS-9>APRSWX,WIDE2-2,qAR,WW4DC:@270252z3517.82N/08106.92W_262/002g006t084r000p000P000h73b10282.DsVP
+2012-07-26 20:52:15,746 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:15,746 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,747 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: LW4DBE-15>APU25N,TCPIP*,qAC,T2ARG:@270254z/`&6(?h8/_C2bg003t041r000P000p000h74b10177Estacion WX Aeroclub Rio de la Plata {UIV32N}
+2012-07-26 20:52:15,747 - INFO - aprspacket.parse(296) - Unable to parse: @270254z/`&6(?h8/_C2bg003t041r000P000p000h74b10177Estacion WX Aeroclub Rio de la Plata {UIV32N}
+2012-07-26 20:52:15,848 - DEBUG - inetproducer.__handleData(149) - Buffering: HB3YEO-6>AP4R10,WIDE1-1,qAR,HB9ZZ-1:>
+2012-07-26 20:52:15,848 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KI6OCB-9>SX5QTT,WIDE1-1,WIDE2-1,qAR,KJ6NKR-2:`0Xfo5k/]"I*}=
+2012-07-26 20:52:15,848 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:15,848 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,849 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JR2TER-13>APU25N,TCPIP*,qAS,JR2TER-10:@270252z3449.18N/13718.86E_202/009g013t090r000p000P000h64b10030WMR200__Mito-Town Toyokawa-City
+2012-07-26 20:52:15,849 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:15,849 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,950 - DEBUG - inetproducer.__handleData(149) - Buffering: E20DOW-9>APGJW6,HS0BBD-2,WIDE1*,qAR,HS9IFG-2:!13
+2012-07-26 20:52:15,950 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HB3YEO-6>AP4R10,WIDE1-1,qAR,HB9ZZ-1:>VER:1.0.4 LZS:01m03d LZB:01m03d RES:0 HF:70267/8950 I-Net:769580/81705.
+2012-07-26 20:52:15,950 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:15,951 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KF4GTA-3>APRS,TCPIP*,qAC,CORE-2:=3049.95N/08316.74WIPHG5230/AllStar Link Node
+2012-07-26 20:52:15,951 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:15,951 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,052 - DEBUG - inetproducer.__handleData(149) - Buffering: VK2KOF-2>APOT21,WIDE1-1,WIDE2-1,
+2012-07-26 20:52:16,053 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E20DOW-9>APGJW6,HS0BBD-2,WIDE1*,qAR,HS9IFG-2:!1347.41N\10038.41EP253/000TOYOTA Ham Club Samutprakarn
+2012-07-26 20:52:16,055 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:16,055 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,055 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KB3MJD-2>APTPV1,WIDE1-1,WIDE2-1,qAR,W3EOC-5:@270251z3959.75N/07551.25W_000/000g000t072r003p032P032h96b10060.DsVP
+2012-07-26 20:52:16,055 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:16,055 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,157 - DEBUG - inetproducer.__handleData(149) - Buffering: N0PTN-1>APU25N,TCPIP*,qAC,T2MSSOURI:@270251z3848.16N/09032.70W_105/000g000t081r000p000P000h62b1
+2012-07-26 20:52:16,157 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VK2KOF-2>APOT21,WIDE1-1,WIDE2-1,qAR,VK2YGV-5:!3056.79S115108.71E#13.3V  22C W1 Tamworth Digi, Pwr 10W, Range 100km, ASL 1323M (4,340ft)
+2012-07-26 20:52:16,157 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:16,157 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,257 - DEBUG - inetproducer.__handleData(149) - Buffering: ZS6EY-9>APCLEY,TCPIP*,qAC,APRS-ZA:/270252z2644.72S/02749.87Ev288/002/A
+2012-07-26 20:52:16,259 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N0PTN-1>APU25N,TCPIP*,qAC,T2MSSOURI:@270251z3848.16N/09032.70W_105/000g000t081r000p000P000h62b10109PHG2166 - STC Wx & TX/RX I-Gate {UIV32N}
+2012-07-26 20:52:16,259 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:16,259 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,259 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS8XXZ-10>APGJW5-1,WIDE1-1,WIDE4-4,qAS,E27EHM:!1300.65N\10111.77EP100/000/A=000405
+2012-07-26 20:52:16,259 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:16,260 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,361 - DEBUG - inetproducer.__handleData(149) - Buffering: DB0HFT-S>APRS,TCPIP*,qAC,DB0HFT-GS:;DB0HFT B *270252z5304.35ND00847.61EaRNG0016 440
+2012-07-26 20:52:16,361 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZS6EY-9>APCLEY,TCPIP*,qAC,APRS-ZA:/270252z2644.72S/02749.87Ev288/002/A=004726 26C 0Mv 4033.4km If 12.35V   0kmh
+2012-07-26 20:52:16,361 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:16,362 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,362 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: LA5MIA>VXTX84,LD9SH*,WIDE2-2,qAR,LA7HAA-10:`,]ml S[/`"4.}Haralds VX-8_
+2012-07-26 20:52:16,362 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:16,362 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,463 - DEBUG - inetproducer.__handleData(149) - Buffering: BG8SRK-10>AP4R10,TCPIP*,qAC,T2FZ:!2502.27N/10133.73Er APRS4R Welcome to Chuxiong China iGat
+2012-07-26 20:52:16,463 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: DB0HFT-S>APRS,TCPIP*,qAC,DB0HFT-GS:;DB0HFT B *270252z5304.35ND00847.61EaRNG0016 440 Voice 439.4875MHz -7.6000MHz
+2012-07-26 20:52:16,464 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:16,464 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,464 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K6OJ-7>3W3USP,WIDE1-1,WIDE2-1,qAR,W6YX-5:`2YAlgz[/>"3y}145.230MHz C100 -060=
+2012-07-26 20:52:16,464 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:16,466 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,565 - DEBUG - inetproducer.__handleData(149) - Buffering: N9MEA>APU25N,TCPIP*,qAC,T2MSSOURI:;52.830   *291437z4525.27N/08929.60WrT11
+2012-07-26 20:52:16,566 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: BG8SRK-10>AP4R10,TCPIP*,qAC,T2FZ:!2502.27N/10133.73Er APRS4R Welcome to Chuxiong China iGate Digi 145.425Mhz 435.150Mhz
+2012-07-26 20:52:16,566 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:16,566 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,568 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N9MEA>APU25N,TCPIP*,qAC,T2MSSOURI:=4458.79N/08938.52W-Check out www.wisconsinaprs.net {UIV32N}
+2012-07-26 20:52:16,568 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:16,568 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,668 - DEBUG - inetproducer.__handleData(149) - Buffering: DB0SZS>APU25N,TCPIP*,qAC,T2SW
+2012-07-26 20:52:16,670 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N9MEA>APU25N,TCPIP*,qAC,T2MSSOURI:;52.830   *291437z4525.27N/08929.60WrT114.8
+2012-07-26 20:52:16,671 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:16,671 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,671 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: OE3MZC-14>APNW01,TCPIP*,qAS,OE3MZC:@270243z4811.00N/01610.33E-WX3IN1+ Test.
+2012-07-26 20:52:16,671 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:16,673 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,673 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: DB0WV>APNU19,WIDE2-2,qAR,HB9ID:!4749.37NL00924.10E#PHG2830 W2 www.db0wv.de, Sysop DO2GM
+2012-07-26 20:52:16,674 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:16,674 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,773 - DEBUG - inetproducer.__handleData(149) - Buffering: WM7B-9>STPTRY,qA
+2012-07-26 20:52:16,773 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: DB0SZS>APU25N,TCPIP*,qAC,T2SWEDEN:=5217.41ND00803.34E&APRS,D-STAR/Funkruf Master,PR/SSTV/WX Link {UIV32}
+2012-07-26 20:52:16,775 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:16,775 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,775 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N2HYO-2>APRS,WB2SER-1,WIDE1,K2AMB-3,WIDE2*,qAR,KB2FAF-1:!4303.89N/07625.67W# FoxDigi at N2HYO - Jordan Ny
+2012-07-26 20:52:16,776 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:16,776 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,875 - DEBUG - inetproducer.__handleData(149) - Buffering: WA3AFS>AP
+2012-07-26 20:52:16,877 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WM7B-9>STPTRY,qAR,N6EX-3:`-KWqhGv/`"6_}>Mobile_"
+2012-07-26 20:52:16,877 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:16,877 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,877 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ALAKES>APOT21,WIDE2-2,qAR,KB7DZR-10:!4457.51N/11814.69W_WX/Digi - KK7JX
+2012-07-26 20:52:16,878 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:16,878 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,878 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZL1SY-1>APU25N,TCPIP*,qAC,T2NZAA:>090351zClub meets 1 & 3rd Tues,Coastguard 1930hr
+2012-07-26 20:52:16,878 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,979 - DEBUG - inetproducer.__handleData(149) - Buffering: EA8URL-1>AP
+2012-07-26 20:52:16,979 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WA3AFS>APRS,TCPIP*,qAC,FIRST:@270252z4237.10N/07357.98W_267/000g002t074r000p000P022h90b10015.DsVP
+2012-07-26 20:52:16,980 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:16,980 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:16,980 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: DB0RIE>BEACON,TCPIP*,qAC,T2ERFURT:@270238z5052.88N/01107.74E#PHG4750/APRS Digi - Riechheimer Berg
+2012-07-26 20:52:16,980 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:16,980 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,081 - DEBUG - inetproducer.__handleData(149) - Buffering: N0TTN>APU25N,TCPIP*,qAC,T
+2012-07-26 20:52:17,082 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: EA8URL-1>APU25N,TCPIP*,qAC,T2SPAIN::BLN2     :***** Echolink EA8URL 144675 T100 *****
+2012-07-26 20:52:17,082 - INFO - aprspacket.parse(343) - Unrecognized data: :BLN2     :***** Echolink EA8URL 144675 T100 *****
+2012-07-26 20:52:17,082 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE7MMG-14>APOTW1,KRYSTL*,WIDE1*,qAR,VE7OGO-1:!4953.50N/11942.61W_000/001g001t067P000h51b09683OTW1
+2012-07-26 20:52:17,082 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:17,082 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,183 - DEBUG - inetproducer.__handleData(149) - Buffering: NORKC>APN391,qAR,KD0EAV-2:!3908.97N/09433.08WhPHG7330 W2, MOn-N NORKC, KD0DXV 
+2012-07-26 20:52:17,183 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N0TTN>APU25N,TCPIP*,qAC,T2MCI:=3853.61N/09447.86W-
+2012-07-26 20:52:17,184 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:17,184 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,184 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N0TTN>APU25N,TCPIP*,qAC,T2MCI:>130321zVoice 147.24+ - n0ttn.usa@gmail.com - EchoLink *Kansas*
+2012-07-26 20:52:17,184 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,285 - DEBUG - inetproducer.__handleData(149) - Buffering: G4DYR>APRS,TCPIP*,qAC,CORE-2:@270252z4000.00N/08100.00W_243/00
+2012-07-26 20:52:17,286 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: NORKC>APN391,qAR,KD0EAV-2:!3908.97N/09433.08WhPHG7330 W2, MOn-N NORKC, KD0DXV derek.collins@NKCH.org
+2012-07-26 20:52:17,286 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:17,286 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,286 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KJ4ERJ-15>APZTLE,TCPIP*,qAC,FIRST:;ISS      *025219h2629.41S\13740.35ESMsg4Pass }k1kuNne\uFz0l'N00F#\'n7uN{!wHa!
+2012-07-26 20:52:17,288 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:17,288 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,388 - DEBUG - inetproducer.__handleData(149) - Buffering: CS1ACP>APRS,TCPIP*,qAC,PORTUGAL:!4008.55N/00851.
+2012-07-26 20:52:17,388 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: G4DYR>APRS,TCPIP*,qAC,CORE-2:@270252z4000.00N/08100.00W_243/002g008t069r067P036h97b10060
+2012-07-26 20:52:17,388 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:17,390 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,390 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W5ALL-WX>APU25N,TCPIP*,qAC,T2SOCAL:@270252z3217.29N/10647.71W_339/000g003t082r000p006P000h43b10150Sea Level Pressure (SLP)
+2012-07-26 20:52:17,391 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:17,391 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,490 - DEBUG - inetproducer.__handleData(149) - Buffering: YD1OCG-3>37R4CK,TCPIP*,qAC,T2JKTPUS:>095428z RF & M
+2012-07-26 20:52:17,493 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: CS1ACP>APRS,TCPIP*,qAC,PORTUGAL:!4008.55N/00851.43W%ARCP-NODE BBS, ARC CCC DX Clusters
+2012-07-26 20:52:17,493 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:17,493 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,493 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N4JEX-2>KI4WXS-5,W4YSB*,qAR,KJ4SNT:@270339z3628.20N/08130.42W_000/000g001t070r000p000P000h90b10119l431.DsVP
+2012-07-26 20:52:17,494 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:17,494 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,595 - DEBUG - inetproducer.__handleData(149) - Buffering: 530806-1>APTHWX,TCPIP*,qAS
+2012-07-26 20:52:17,595 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: YD1OCG-3>37R4CK,TCPIP*,qAC,T2JKTPUS:>095428z RF & Mobile to Internet Gateway http://qrz.com/db/yd1ocg {eTrack-YD1OCG}
+2012-07-26 20:52:17,596 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,596 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KB2KRJ>APRS,TCPIP*,qAC,FIFTH:@270252z4221.75N/07402.37W_057/000g003t071r000p016P016h97b10040L....DsIP-VP
+2012-07-26 20:52:17,596 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:17,598 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,697 - DEBUG - inetproducer.__handleData(149) - Buffering: N6GKR-9>SX5WPQ,WIDE1-1*,WIDE2-1,qAR,W0TLM:`pLlgl>/'"I]}MT-RTG|!=&,(!|!
+2012-07-26 20:52:17,698 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530806-1>APTHWX,TCPIP*,qAS,APTHWX-1:@270250z1733.50N/10003.44E_262/001g002t081r000p004P001L464h79b10084 SUN:464 W/m2 BAT:14.4V. http://weatherwatch.in.th
+2012-07-26 20:52:17,698 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:17,698 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,799 - DEBUG - inetproducer.__handleData(149) - Buffering: KB5SMY>APRS,TCPIP*,qAC,
+2012-07-26 20:52:17,801 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N6GKR-9>SX5WPQ,WIDE1-1*,WIDE2-1,qAR,W0TLM:`pLlgl>/'"I]}MT-RTG|!=&,(!|!wTN!|3
+2012-07-26 20:52:17,801 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:17,802 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,802 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KF4EBG-1>3VSP2V,WIDE1-1,WIDE2-1,qAR,AJ4RC:'iA#l #/]146.745 -  OPEN
+2012-07-26 20:52:17,802 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:17,802 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,802 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JA2PIT-10>APU25N,TCPIP*,qAC,JG6YCL-JA:>270252zDX: JM2UYS-2 35.06.58N 136.52.86E 22.9km 60  11:43
+2012-07-26 20:52:17,802 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,904 - DEBUG - inetproducer.__handleData(149) - Buffering: VA7DSR-S>APJID2,TC
+2012-07-26 20:52:17,907 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KB5SMY>APRS,TCPIP*,qAC,T2SPAIN2:@270252z3518.09N/10624.69W_090/005g011t075r000p000P000h42b10246L000pywlite12DVP
+2012-07-26 20:52:17,907 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:17,907 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:17,910 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: YD9CJI-9>APGJW2,YD9ZCH-2*,WIDE1*,WIDE2-1,qAR,YC9CCS-1:!0825.34S\11534.55Ek142/004/A=001072
+2012-07-26 20:52:17,910 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:17,910 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,010 - DEBUG - inetproducer.__handleData(149) - Buffering: VA7DSR-S>APJID2,TCPIP*,qAC,VA7DSR-GS:;VA7DSR AD*
+2012-07-26 20:52:18,013 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VA7DSR-S>APJID2,TCPIP*,qAC,VA7DSR-GS:;VA7DSR A *080410z4825.94ND12324.23WaRNG0040 1.2 Voice 1291.4500 -20MHz
+2012-07-26 20:52:18,013 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:18,013 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,013 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KG4CWC-9>2VTV6V,K4PKT-3*,WIDE2-2,qAR,W4GCW-1:'l*rl k/"3r}
+2012-07-26 20:52:18,013 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:18,013 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,114 - DEBUG - inetproducer.__handleData(149) - Buffering: ALAKES>APOT21,WIDE2-2,qAR,KB7DZR-10:!4457.51N/11814.69W_333/008g010t058p00
+2012-07-26 20:52:18,115 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VA7DSR-S>APJID2,TCPIP*,qAC,VA7DSR-GS:;VA7DSR AD*080410z4825.94ND12324.23WaRNG0040 1.2 Data 1299.900 MHz
+2012-07-26 20:52:18,115 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:18,115 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,115 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: LA7GKA-2>APNX01,qAS,LA2WRA:!6228.20N/00617.74E-Testdigi for la7gka.
+2012-07-26 20:52:18,115 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:18,115 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,217 - DEBUG - inetproducer.__handleData(149) - Buffering: KE6BB-10>APWW10,qAC,
+2012-07-26 20:52:18,217 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ALAKES>APOT21,WIDE2-2,qAR,KB7DZR-10:!4457.51N/11814.69W_333/008g010t058p000h57b10281T2WX
+2012-07-26 20:52:18,217 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:18,217 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,219 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE3WVA>APNW01,TCPIP*,qAC,T2POLAND:@270253z4543.75N/08210.13W#iGate Mindemoya ON
+2012-07-26 20:52:18,219 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:18,219 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,220 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: SP2OFR>APU25N,TCPIP*,qAC,T2FINLAND:;SP2OFC-2 *220635z5328.76N/01844.62E-KRZYSZTOF
+2012-07-26 20:52:18,220 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:18,220 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,321 - DEBUG - inetproducer.__handleData(149) - Buffering: KC9RGZ-1>TQ2T5X,WIDE1-1,WID
+2012-07-26 20:52:18,322 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KE6BB-10>APWW10,qAC,KE6BB:T#784,049,048,002,500,000,10000000
+2012-07-26 20:52:18,322 - INFO - aprspacket.parse(343) - Unrecognized data: T#784,049,048,002,500,000,10000000
+2012-07-26 20:52:18,322 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K7TMF-9>T7SXQP,WA7RVV-8*,WIDE2-1,qAR,WA7RVV:`-8M f0j/]";>}443.925MHz On the move!=
+2012-07-26 20:52:18,322 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:18,322 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,323 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JG1GZK-9>TSQQV0,qAR,JH8JFI-2:`E6slT>>/`"4%}_"
+2012-07-26 20:52:18,323 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:18,323 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,424 - DEBUG - inetproducer.__handleData(149) - Buffering: SR9NWJ>APRX22,TCPIP*,qAC,T2POLAND:;438.700JK*111111
+2012-07-26 20:52:18,424 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KC9RGZ-1>TQ2T5X,WIDE1-1,WIDE2-1,qAR,KC9RGZ:`vE8l!f>/"67}MT-RTG
+2012-07-26 20:52:18,424 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:18,424 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,426 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: IT9AOO-1>APU25N,TCPIP*,qAC,T2FINLAND:;Link-d1  *151802z3806.92N/01315.98Enlink 5 Ghz ARI - D-Star Sperimentale
+2012-07-26 20:52:18,426 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:18,426 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,526 - DEBUG - inetproducer.__handleData(149) - Buffering: K2TJW-1>APU25N,TCPIP*,qAC,T2SWEDEN:;162.425 w*080054z4214
+2012-07-26 20:52:18,526 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: SR9NWJ>APRX22,TCPIP*,qAC,T2POLAND:;438.700JK*111111z4925.07N/02053.74ErT103 -7600kHz R100K Krynica SR9NJ
+2012-07-26 20:52:18,528 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:18,528 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,529 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: LARCH>APN391,WIDE2-1,qAR,N1KEZ-1:!4543.01NS12217.77W_PHG3820/W2,WAn,CLARK CO,WA,KB7APU
+2012-07-26 20:52:18,529 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:18,529 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,630 - DEBUG - inetproducer.__handleData(149) - Buffering: N4OGP-6>APWM10,TCPIP*,qAC,Firenet:T#515,100,048,083,500,029,1
+2012-07-26 20:52:18,631 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: K2TJW-1>APU25N,TCPIP*,qAC,T2SWEDEN:;162.425 w*080054z4214.28N/07745.51W_KBGM http://www.noaa.gov/bgm
+2012-07-26 20:52:18,631 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:18,631 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,631 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ZL1BCO-3>APNU3B,WIDE2-2,qAR,ZL1SY-1:!3831.11S/17601.29E# Taupo 146.750 - Nat. System 439.825
+2012-07-26 20:52:18,631 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:18,631 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,733 - DEBUG - inetproducer.__handleData(149) - Buffering: ENABLE-9>SV3YRV,WIDE3-3,qAR,EA
+2012-07-26 20:52:18,733 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N4OGP-6>APWM10,TCPIP*,qAC,Firenet:T#515,100,048,083,500,029,10100000
+2012-07-26 20:52:18,733 - INFO - aprspacket.parse(343) - Unrecognized data: T#515,100,048,083,500,029,10100000
+2012-07-26 20:52:18,733 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS4IF-9>APGJW5-1,WIDE1-1,WIDE2-1,qAR,HS4IF-3:!1725.90N\10245.52EP352/004/A=000351
+2012-07-26 20:52:18,733 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:18,734 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,734 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: BWTP>APTW01,WIDE2-2,qAR,WB9TLH-15:!3850.89N/08630.33W_ KC9NMK-11 BEDFORD IN.
+2012-07-26 20:52:18,734 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:18,734 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,835 - DEBUG - inetproducer.__handleData(149) - Buffering: W4KPR>APU25N,NI4CE-12*,WIDE2-1,qAR,N4IK-5:=2742.66N/08221.54W_==>K
+2012-07-26 20:52:18,835 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ENABLE-9>SV3YRV,WIDE3-3,qAR,EA7CRT:`z<pl f>/"5t}
+2012-07-26 20:52:18,836 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:18,836 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,836 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: OZ2REE-S>APRS,TCPIP*,qAC,OZ2REE-GS:;OZ2REE B *270251z5522.44ND01030.31EaRNG0019 440 Voice 434.5375MHz -2.0000MHz
+2012-07-26 20:52:18,838 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:18,838 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,937 - DEBUG - inetproducer.__handleData(149) - Buffering: 530806-1>APTHWX,TCPIP*,qAS,APTHWX-1:!1733.50N\10003.44E
+2012-07-26 20:52:18,938 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W4KPR>APU25N,NI4CE-12*,WIDE2-1,qAR,N4IK-5:=2742.66N/08221.54W_==>KPARC @ 147.090MHz PL 162.2 {UIV32N}
+2012-07-26 20:52:18,940 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:18,940 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:18,940 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE7SNC-9>APD226,TCPIP*,qAI,VE7SNC-9,THIRD,92E5A2B6,FIRST:!5614.33NI12049.61W& Fort St. John Embedded IGate
+2012-07-26 20:52:18,941 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:18,941 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,042 - DEBUG - inetproducer.__handleData(149) - Buffering: KC4JQH-10>APN391,WIDE2-2,q
+2012-07-26 20:52:19,043 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530806-1>APTHWX,TCPIP*,qAS,APTHWX-1:!1733.50N\10003.44Ep
+2012-07-26 20:52:19,043 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:19,043 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,045 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KI6FPL>SSUPTX,N6EX-5*,qAR,N6EX-3:`.3)n}S>/"4/}Monitoring the WIN System
+2012-07-26 20:52:19,045 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:19,045 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,046 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: E27RK-15>APGJW6-1,WIDE1-1,qAR,HS3EPE:!1240.95N\10115.69EP000/000[v1267]@Stop aprs nu27rk hamsiam
+2012-07-26 20:52:19,046 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:19,046 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,147 - DEBUG - inetproducer.__handleData(149) - Buffering: N9MXT-10>APU25N,KA9QPN-15*,WIDE2-1,qAR,N9DK
+2012-07-26 20:52:19,148 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KC4JQH-10>APN391,WIDE2-2,qAR,KG4YZY-11:!2812.43NS08213.62W#PHG53304/W3,FLn Zephyrhills, FL
+2012-07-26 20:52:19,148 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:19,148 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,148 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: MB7UIV>APU25N,TCPIP*,qAC,T2TURKIYE:=5147.45N/00109.08E#APRS IGate Clacton JO01NS {UIV32N}
+2012-07-26 20:52:19,148 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:19,150 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,250 - DEBUG - inetproducer.__handleData(149) - Buffering: HS8SDZ-9>APGJW5-1,WIDE1-1,qAS,HS8XXZ:!1030.12N\09910.52EP212/000http://w
+2012-07-26 20:52:19,250 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: N9MXT-10>APU25N,KA9QPN-15*,WIDE2-1,qAR,N9DKO-10:=4210.97NS08819.43W#IGATE/DIGI {UIV32N}
+2012-07-26 20:52:19,250 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:19,250 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,252 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: YM5KUL>APRS,LOCAL,qAR,TA2KA:>MOBILDE:WIDE1-1,WIDE2-2 SABITTE:WIDE3-3 KULLANINIZ!
+2012-07-26 20:52:19,252 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,351 - DEBUG - inetproducer.__handleData(149) - Buffering: W2PE-2>APU25N,K2ILH-2,KC2UK,WIDE1*,qAR,W2PE-3:=4
+2012-07-26 20:52:19,352 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: HS8SDZ-9>APGJW5-1,WIDE1-1,qAS,HS8XXZ:!1030.12N\09910.52EP212/000http://www.10watts.org 144.2750 MHz.
+2012-07-26 20:52:19,352 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:19,354 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,355 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: IQ1LM>APRX22,TRACE1-1,qAR,IZ2GIU-2:!4545.64N/00833.60E-Sez. ARI Arona (NO) - Apertura giovedi 21:00-23:00 - QRV 145.3625
+2012-07-26 20:52:19,355 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:19,355 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,456 - DEBUG - inetproducer.__handleData(149) - Buffering: 530115-1>APTHWX,TCPIP*,qAS,APTHWX-1:@270250z1740.53N/10020.33E_180/002g005t081r000p004P000L663h76b10057 SUN:663 W/m2 BAT:14.40V. http://weatherwatch.in.t
+2012-07-26 20:52:19,457 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W2PE-2>APU25N,K2ILH-2,KC2UK,WIDE1*,qAR,W2PE-3:=4303.68N/07850.62W#Radio Ass'n of WNY {UIV32N}
+2012-07-26 20:52:19,457 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:19,457 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,558 - DEBUG - inetproducer.__handleData(149) - Buffering: SP1UJU-4>APNU19,qAO,SR2NMG:!5439.35N201712.60E#
+2012-07-26 20:52:19,559 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 530115-1>APTHWX,TCPIP*,qAS,APTHWX-1:@270250z1740.53N/10020.33E_180/002g005t081r000p004P000L663h76b10057 SUN:663 W/m2 BAT:14.40V. http://weatherwatch.in.th
+2012-07-26 20:52:19,559 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:19,559 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,559 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: ENABLE-9>APT311,WIDE3-3,qAR,EA7CRT:>TinyTrak3
+2012-07-26 20:52:19,561 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,561 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 7N4RFN-10>APKRAM,TCPIP*,qAC,AE5PL-JF:/270252z3519.83N/13843.89EMHam Tracker from iPhone4 @ MIATA MX-5
+2012-07-26 20:52:19,561 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:19,562 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,661 - DEBUG - inetproducer.__handleData(149) - Buffering: YO3HCJ-9>APGWM9,TCPIP,qAR,YO3JWM-2:@025219h4427.07N/02609.12E>000/000/A=000262 GSM
+2012-07-26 20:52:19,663 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: SP1UJU-4>APNU19,qAO,SR2NMG:!5439.35N201712.60E#PHG3520 W2,SPn Rowokol A=418
+2012-07-26 20:52:19,663 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:19,664 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,664 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W5GPR>APRS,qAR,KF5OCF:!3646.64NN09937.58W# APRS DIGI W5GPR-5 BUFFALO,OK OP=WL7II W/R/T
+2012-07-26 20:52:19,664 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:19,664 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,765 - DEBUG - inetproducer.__handleData(149) - Buffering: WV5V>APU25N,TCPIP*,qAC,CORE-2:>232331zWV5V-1 WX STATION/SKYWARN/SMERG DIGI J
+2012-07-26 20:52:19,766 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: YO3HCJ-9>APGWM9,TCPIP,qAR,YO3JWM-2:@025219h4427.07N/02609.12E>000/000/A=000262 GSM/APRS - YO3GWM software www.aprs.ro
+2012-07-26 20:52:19,766 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:19,766 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,766 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: NS8E>APD225,TCPIP*,qAI,NS8E,FIRST:!4239.93N/08254.93WI Macomb Linux APRSD Server (IP)
+2012-07-26 20:52:19,766 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:19,766 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,868 - DEBUG - inetproducer.__handleData(149) - Buffering: 7J2YAF-13>APU25N,TCPIP*,qAS,7J2YAF-
+2012-07-26 20:52:19,869 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WV5V>APU25N,TCPIP*,qAC,CORE-2:>232331zWV5V-1 WX STATION/SKYWARN/SMERG DIGI JONES COUNTY ARC.
+2012-07-26 20:52:19,869 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,871 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: WV5V-1>APU25N,TCPIP*,qAS,WV5V:@270252z3143.90N/08907.69W_337/000g000t080r000p...P000h60b10147 LaCROSSE2315/SMERG/IGATE/JCARC:JONES CO,MS {UIV32N}
+2012-07-26 20:52:19,871 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:19,871 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:19,971 - DEBUG - inetproducer.__handleData(149) - Buffering: PT2AP-1>APU25N,PT2AP-15,PP2PM-15,PP2REI-15,WIDE3*,qAR,PP2REI-1:=1558.41SI04806.90W&iGate Recanto das Emas -
+2012-07-26 20:52:19,973 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 7J2YAF-13>APU25N,TCPIP*,qAS,7J2YAF-2:@270252z3453.19N/13901.96E_338/003g003t081r000p000P000h76b10152/JDXA WX STATION @IZU CITY
+2012-07-26 20:52:19,973 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:19,973 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,073 - DEBUG - inetproducer.__handleData(149) - Buffering: METHOD>APN391,N0ESQ-1,WIDE2*,qAR,N0IX-12:!3827.20NS10601.09W#PHG4850/W2,COn n0nhj /A=011
+2012-07-26 20:52:20,075 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: PT2AP-1>APU25N,PT2AP-15,PP2PM-15,PP2REI-15,WIDE3*,qAR,PP2REI-1:=1558.41SI04806.90W&iGate Recanto das Emas - DF {UIV32N}
+2012-07-26 20:52:20,075 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:20,075 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,075 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: F5TND>APU25N,TCPIP*,qAC,T2FRANCE:=4628.00N/00047.32WIPHG20302/AGWPE 2004-1108 /UI-V 2.03 {UIV32}
+2012-07-26 20:52:20,075 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:20,075 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,176 - DEBUG - inetproducer.__handleData(149) - Buffering: 7K3WKG-5>APDU65,TCPI
+2012-07-26 20:52:20,177 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: METHOD>APN391,N0ESQ-1,WIDE2*,qAR,N0IX-12:!3827.20NS10601.09W#PHG4850/W2,COn n0nhj /A=011700
+2012-07-26 20:52:20,177 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:20,177 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,177 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: F5TND-5>APU25N,TCPIP*,qAS,F5TND:@270252z4628.00N/00047.32W_227/064g098t073h100b10124r000P000p000.Ds  VP 1 {UIV32}
+2012-07-26 20:52:20,177 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:20,178 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,178 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KJ4HZU>APT311,WIDE1,WIDE2-1,qAR,N4NE-1:>dhh@mindspring.com
+2012-07-26 20:52:20,180 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,279 - DEBUG - inetproducer.__handleData(149) - Buffering: KE6HEC-3>APN383,NCA1-1,qAR,KE6SLS-3:
+2012-07-26 20:52:20,280 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: 7K3WKG-5>APDU65,TCPIP*,qAC,T2SAPPORO:=4321.86N/14221.39E$290/027 /A=000739 d-star nagareyamaQRV
+2012-07-26 20:52:20,280 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:20,280 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,282 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: PJ2A-4>APJI23,TCPIP*,qAC,PJ2A-JS:!1206.53NI06854.97W&PHG5540 javAPRSIgate VERONA CLUB
+2012-07-26 20:52:20,282 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:20,282 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,382 - DEBUG - inetproducer.__handleData(149) - Buffering: VK4TEC-9>RX13R5,WIDE1-1,WIDE2-1,qAR,VK4HPW-1:`PYl >/]"9&} www.t
+2012-07-26 20:52:20,382 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: KE6HEC-3>APN383,NCA1-1,qAR,KE6SLS-3:!4131.43NS12354.82W#PHG58306/W1,NCAn Red Mtn,E of Klamath/A=004275
+2012-07-26 20:52:20,384 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:20,384 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,384 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: JA8OBT-9>SRTUR9,JG6YDG-2*,qAR,JG6YEY-10:`9P2n}J>/]"4%}433.200MHz=
+2012-07-26 20:52:20,384 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:20,384 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,486 - DEBUG - inetproducer.__handleData(149) - Buffering: RZ6HSP>APRX20,TCPIP*,qAC,T2RUSSIA:!4403.48NR04303.99E&Rx iGate from Pyat
+2012-07-26 20:52:20,486 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VK4TEC-9>RX13R5,WIDE1-1,WIDE2-1,qAR,VK4HPW-1:`PYl >/]"9&} www.tech-software.net=
+2012-07-26 20:52:20,486 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:20,486 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,487 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: SM4JPD-5>APU25N,TCPIP*,qAC,T2SWEDEN:@270252z5916.87N/01514.88E_183/000g003t059r000p000P000h85b10120WX/iGate
+2012-07-26 20:52:20,487 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:20,487 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,588 - DEBUG - inetproducer.__handleData(149) - Buffering: VE7NLL>APOT21,WIDE1-1,WIDE2-2,qAR,VE7EOK:/025220h4952.93N/11926.12Wv126/000/A=001250Neil; 14
+2012-07-26 20:52:20,588 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: RZ6HSP>APRX20,TCPIP*,qAC,T2RUSSIA:!4403.48NR04303.99E&Rx iGate from Pyatigorsk, op.Sergey
+2012-07-26 20:52:20,588 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:20,589 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,589 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: DO0FRK-10>AP4R10,TCPIP*,qAC,T2ZUG:!4758.25NI00754.63E&APRS4R IGATE / Sysop Bernd DO5ZOL
+2012-07-26 20:52:20,589 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:20,591 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,690 - DEBUG - inetproducer.__handleData(149) - Buffering: 530115-1>APT
+2012-07-26 20:52:20,691 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE7NLL>APOT21,WIDE1-1,WIDE2-2,qAR,VE7EOK:/025220h4952.93N/11926.12Wv126/000/A=001250Neil; 146.680-, 146.520, & D-STAR A&B
+2012-07-26 20:52:20,691 - DEBUG - aprspacket.parse(268) - re search group found
+2012-07-26 20:52:20,691 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,693 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: VE3TVX-9>T4SQ2R-2,WIDE1,qAR,VE3LSR-4:`lY7lgk>/"5n}
+2012-07-26 20:52:20,693 - DEBUG - miceparse.decodeMice(45) - Parsing MIC
+2012-07-26 20:52:20,693 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK
+2012-07-26 20:52:20,694 - DEBUG - aprspacket.parseAprs(149) - Parse APRSIS: W6COH-10>APN383,WIDE2-2,qAR,N6SGX-10:!3344.75N111658.13W#PHG5760/A=001600 144.505+ 100.0 / 224.12- 97.4
+2012-07-26 20:52:20,694 - DEBUG - aprspacket.parse(233) - re search group found
+2012-07-26 20:52:20,694 - DEBUG - aprspacket.parseAprs(191) - APRSIS Parsed OK

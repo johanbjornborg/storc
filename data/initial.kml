@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Style id="stylesel_0">
+            <LineStyle id="substyle_0">
+                <color>50f00014</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="feat_2">
+            <name>Origin</name>
+            <Point id="geom_0">
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <coordinates>-111.8833,40.75,1350.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>Destination</name>
+            <Point id="geom_1">
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <coordinates>-110.327665846,40.164716087,1347.49846716</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>Initial</name>
+            <styleUrl>#stylesel_0</styleUrl>
+            <LineString id="geom_2">
+                <extrude>1</extrude>
+                <altitudeMode>relativeToSeaFloor</altitudeMode>
+                <coordinates>-111.8833,40.75,1350.0 -111.8833,40.75,4180.0 -111.850584725,40.7288878676,6265.0 -111.816592883,40.6977327661,8355.0 -111.761690132,40.6474118468,10440.0 -111.733116546,40.6093496913,11835.0 -111.681908056,40.5624147332,13575.0 -111.630234879,40.515053868,15660.0 -111.488340511,40.4753348022,18445.0 -111.223816451,40.4753348014,30000.0 -111.223816451,40.4753348014,30000.0 -110.77901312,40.4753348001,18440.6169368 -110.611644,40.4284848428,15657.3829435 -110.552411917,40.3741958894,13569.1119864 -110.49458164,40.3211917557,11829.2405899 -110.462628382,40.2786276248,10438.231827 -110.40140589,40.2225143695,8351.32894175 -110.363754639,40.1880052499,6259.94075949 -110.327665846,40.164716087,4172.09230096 -110.327665846,40.164716087,1347.49846716</coordinates>
+            </LineString>
+            <description>Initial path prediction via wind data.</description>
+        </Placemark>
+        <NetworkLink id="feat_5">
+            <Link id="link_0">
+                <href> </href>
+                <refreshInterval>2</refreshInterval>
+                <viewRefreshMode>onInterval </viewRefreshMode>
+            </Link>
+            <name>initial</name>
+        </NetworkLink>
+    </Document>
+</kml>

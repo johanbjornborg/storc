@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2"
+    xmlns:kml="http://www.opengis.net/kml/2.2"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns="http://www.opengis.net/kml/2.2" >
+
+    <Document>
+
+        <Folder>
+
+            <name>
+APRS To Kml
+            </name>
+
+            <Folder py:for="station in stations" >
+
+                <name>
+${station.name}
+                </name>
+
+                <Placmark>
+
+                    <id>
+${station.id}
+                    </id>
+
+                    <styleUrl>
+${station.style}
+                    </styleUrl>
+
+                    <name>
+Last Position
+                    </name>
+
+                    <description>
+                    </description>
+
+                    <Point>
+
+                        <coordinates>
+${station.longitude},${station.latitude},${station.elevation}
+                        </coordinates>
+                    </Point>
+
+                    <Placemark>
+                    </Placemark>
+
+                    <Placemark>
+                    </Placemark>
+
+                    <name>
+Track
+                    </name>
+
+                    <styleUrl>
+${station.style}
+                    </styleUrl>
+
+                    <LineString>
+
+                        <extrude>
+1
+                        </extrude>
+
+                        <tessellate>
+1
+                        </tessellate>
+
+                        <coordinatespy:for
+                            in=""
+                            point=""
+                            station.tracks="" >
+            ${point.longitude},${point.latitude},${point.elevation}
+
+                            <coordinates>
+                            </coordinates>
+                        </coordinatespy:for>
+                    </LineString>
+                </Placmark>
+            </Folder>
+        </Folder>
+    </Document>
+
+</kml>

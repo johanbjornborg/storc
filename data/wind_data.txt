@@ -1,0 +1,4 @@
+#!/bin/bash
+curl --data "region=naconf&TYPE=TEXT%3ALIST&YEAR=2012&MONTH=09&FROM=2912&TO=2912&STNM=72572" http://weather.uwyo.edu/cgi-bin/sounding > weather_test_dump.txt
+
+grep -Pzo '(?s)(?<=(<H2>))(.*?)(?=(</H2>))|(?<=(<PRE>))(.*?)(?=(</PRE>))|(?<=(<H3>))(.*?)(?=(</H3>))' weather_test_dump.txt > weather_test_parsed.txt
