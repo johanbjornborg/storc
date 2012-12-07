@@ -50,11 +50,15 @@ class predict(object):
         self.peak = max_height
         if data_source == 1:
 #            print "\n------Using GFS text file------\n"
-            for d in sl.gfs_local():  
+            for d in sl.get_gfs():  
                 self.data.append(d)
         elif data_source == 2:
 #            print "\n------Using winds aloft data----\n"
             for d in sl.get_winds_aloft():
+                self.data.append(d)
+		elif data_source == 3:
+#            print "\n------Using Local copy of GFS data----\n"
+            for d in sl.get_gfs_local():
                 self.data.append(d)
                 
     def path_correction(self, origin, points, apex = 30000, pressure = None, temp = None):

@@ -6,11 +6,9 @@ import re
 Created on Jul 8, 2012
 
 @author: John Wells
+@contact: john.wells@utah.edu
+@summary: Pulls and parses weather data from GFS|NOAA. Data is parsed and organized into sheer layers, based on altitude reporting. 
 '''
-
-from compiler.pycodegen import EXCEPT
-
-
             
 #TODO: Write function to retrieve GRIB data and pull useful data out of it.
 def retrieve_grib():
@@ -38,8 +36,7 @@ def get_gfs():
     month = time[1]
     day = time[2]
     hour = time[3]
-    
-        
+            
     if(hour < 12):
         hour = "00"
     elif(12 < hour < 23):
@@ -54,14 +51,11 @@ def get_gfs():
         
     fmt = (year, month, day, hour)
     print fmt
-    url = "http://weather.uwyo.edu/cgi-bin/sounding?region=naconf&TYPE=TEXT%3ALIST&YEAR={0}&MONTH={1}&FROM={2}{3}TO={2}{3}&STNM=72572".format(fmt[0],fmt[1],fmt[2],fmt[3])
+    url = "http://weather.uwyo.edu/cgi-bin/sounding?region=naconf&TYPE=TEXT%3ALIST&YEAR={0}&MONTH={1}&FROM={2}{3}TO={2}{3}&STNM=72572".format(fmt[0], fmt[1], fmt[2], fmt[3])
     print url
     website = urlopen(url).read() 
     print "Website read"
-    #f = open('data/wind_data.txt', 'r+')
-    #data = f.read()
     regex = re.compile(r'[-][\d+-\.\s]+')
-#    regex = re.compile(r'<PRE>(.|\n)*</PRE>')
     matches = regex.findall(website)
     m = matches[2].split('\n')
     print "Matches made"
@@ -79,7 +73,10 @@ def get_gfs():
             continue
     print "End of sheer layer"
 
-def gfs_local():
+def get_gfs_local():
+    """
+    Retrieves a local cached copy of the GFS forecast data. 
+    """
     f = open('../data/wind_data.txt', 'r+')
     data = f.read()
     regex = re.compile(r'[-][\d+-\.\s]+')
@@ -127,6 +124,7 @@ def get_winds_aloft():
     
     For the fields that are used in GFS but not in WA, None is passed into the list. 
     """
+
     website = urlopen("http://aviationweather.gov/products/nws/saltlakecity").read() # Low Altitudes
     reg = re.compile(r'(SLC.*)')
     web_data = reg.findall(website)
@@ -136,8 +134,8 @@ def get_winds_aloft():
     hi_data = reg.findall(website)
     high_alt = hi_data[0].split() 
     val = low_alt + high_alt[2:]
-    altitudes = [6000,9000,12000,18000,24000,30000,34000,39000,45000,53000]
-    for i in range(1,len(val)):
+    altitudes = [6000, 9000, 12000, 18000, 24000, 30000, 34000, 39000, 45000, 53000]
+    for i in range(1, len(val)):
         heading = float(val[i][0:2])
         wspd = float(val[i][2:4]) * 0.514444
         
@@ -172,13 +170,13 @@ def get_winds_aloft():
 def print_tests():
 
     print "------WYOMING GFS DATA------"
-   # for d in get_gfs():
-    #    print d
+    for d in get_gfs():
+        print d
     print "-----WINDS ALOFT------"
- #   for c in get_winds_aloft():
-  #      print c    
+    for c in get_winds_aloft():
+        print c    
     print "------GFS LOCAL DATA-------"
-    for d in gfs_local():
+    for d in get_gfs_local():
         print d
         
 def main():
