@@ -1,4 +1,5 @@
-Short Term Observational Radio Communications (STORC) is a Bachelors Senior Project developed to meet the requirements for the Computer and Electrical Engineering Bachelors Degree program at the University of Utah.
+Short Term Observational Radio Communications (STORC) is a Capstone Project developed to meet the requirements for the Computer and Electrical Engineering Bachelors Degree program at the University of Utah.
+It is the collaborative efforts of five engineering students from varying disciplines over the course of 9 months.
 
 http://www.storc.us/
 
